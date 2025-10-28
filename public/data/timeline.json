@@ -417,19 +417,25 @@
           "type": "section-with-title",
           "title": "Mercredi 23 août",
           "content": [
-            "Les maires sont changés dans presque toutes les communes. Quelques uns même sont arrêtés comme collaborateurs. Monsieur Hochart devient maître de Chevilly. Le ravitaillement est de plus en plus difficile, à commencer par le pain. 50 grammes par personne et par jour. Si la farine ou le bois de chauffage ne manque pas. Voici que ce matin la radio joue la Marseillaise. Le speaker annonce : \"Paris est libéré par les FFI\". Tout le monde respire. La guerre est finie... La réalité s'avère toute autre. L'on se bat dans les rues de Paris. Ceux qui reviennent en savent quelque chose, mais également ceux qui ne reviennent pas. La liste des victimes est longue. L'action de la Résistance s'exerce vigoureusement. Les blindés américains se trouvent dans la région de Corbeil-Essonnes.",
-            "La banlieue parisienne est toujours occupée. Les Allemands mettent la route de Fontainebleau en état de défense. Ils passent dans Chevilly en auto, armés de mitrailleuses et prêts à tirer. Ceux qui hier ont menacé de bombarder le village à cause d'un soldat allemand tué dans le quartier de la Chapelle Sainte Colombe sont partis sans mettre leur menace à exécution. Pendant la nuit éclate un gros orage accompagné de trombes d'eau et de coups de tonnerre terribles... signe avant-coureur de l'orage plus terrible encore qui éclatera demain."
+            "Les maires sont changés dans presque toutes les communes. Quelques uns même sont arrêtés comme collaborateurs. Monsieur Hochart devient maître de Chevilly. Le ravitaillement est de plus en plus difficile, à commencer par le pain. 50 grammes par personne et par jour. Si la farine ou le bois de chauffage ne manque pas. Voici que ce matin la radio joue la Marseillaise. Le speaker annonce : \"Paris est libéré par les FFI\". Tout le monde respire. La guerre est finie ... La réalité s'avère toute autre. L'on se bat dans les rues de Paris. Ceux qui reviennent en savent quelque chose, mais également ceux qui ne reviennent pas. La liste des victimes est longue. L'action de la Résistance s'exerce vigoureusement. Les blindés américains se trouvent dans la région de Corbeil-Essonnes.",
+            "La banlieue parisienne est toujours occupée. Les Allemands mettent la route de Fontainebleau en état de défense. Ils passent dans Chevilly en auto, armés de mitrailleuses et prêts à tirer. Ceux qui hier ont menacé de bombarder le village à cause d'un soldat allemand tué dans le quartier de la Chapelle Sainte Colombe sont partis sans mettre leur menace à exécution. Pendant la nuit éclate un gros orage accompagné de trombes d'eau et de coups de tonnerre terribles ... signe avant-coureur de l'orage plus terrible encore qui éclatera demain."
           ]
         },
         {
-          "type": "section-with-title",
-          "title": "Jeudi 24 août",
+          "type": "subsection-title",
+          "title": "Jeudi 24 août"
+        },
+        {
+          "type": "paragraphs",
           "content": [
             "Il pleut. Le maire fait savoir à la population que les Alliés s'approchent sur la route de Fontainebleau et sur la route d'Orléans. De fait la bataille commence à l'ouest et au sud de Chevilly. Les Allemands passent dans nos rues et s'efforcent d'arrêter les blindés français qui débouchent sur le plateau de Wissous et Rungis. On les voit circuler sur la route de Versailles.",
             "Midi, le bruit des mitrailleuses et des canons se rapproche. Les obus sifflent et éclatent assez près des maisons. Vers les 14h00 des chars français stationnent sur la route de Versailles et tirent de temps en temps sur l'occupant. Des soldats allemands, par petits groupes, se replient sur la route de Rungis. Ils traînent derrière eux de petits canons anti-chars.",
-            "16h00, la ligne des blindés français se renforce malgré les efforts désespérés que leur opposent les automitrailleuses, les cyclistes et les tirailleurs allemands soutenus par le tir du canon des Hautes Bruyères. Les projectiles survolent Chevilly; ils passent en sifflant pour s'écraser près du Séminaire. On se bat durement près de la prison de Fresnes et sur l'avenue Jean Mermoz. Les Allemands qui reviennent de la ligne de feu sont \"sans feu\"; ils paraissent à bout de forces et de courage. Une escouade vient se constituer prisonnière à la mairie et dépose les armes.",
-            "L'Ecole départementale de Vitry sur Seine, ancien orphelinat devenu lycée professionnel au nord de Chevilly-Larue sur la RN 7, avait été réquisitionnée par les troupes d'occupation; à la libération on y découvrira, sommairement enterrés, les cadavres de huit soldats des FFI capturés le 21 août lors de la contre-attaque allemande sur la Mairie de Vitry : Paul Armangot, 36 ans, Robert Coucharrière, 17 ans, et son frère Marcel, 22 ans, Marcel Fievet et ses deux fils Marcel-Aimé, 17 ans, et Jacques 16 ans, Robert Poirier, 26 ans et son frère Roger, 22 ans."
+            "16h00, la ligne des blindés français se renforce malgré les efforts désespérés que leur opposent les automitrailleuses, les cyclistes et les tirailleurs allemands soutenus par le tir du canon des Hautes Bruyères. Les projectiles survolent Chevilly; ils passent en sifflant pour s'écraser près du Séminaire. On se bat durement près de la prison de Fresnes et sur l'avenue Jean Mermoz. Les Allemands qui reviennent de la ligne de feu sont \"sans feu\"; ils paraissent à bout de forces et de courage. Une escouade vient se constituer prisonnière à la mairie et dépose les armes."
           ]
+        },
+        {
+          "type": "note",
+          "content": "L'Ecole départementale de Vitry sur Seine, ancien orphelinat devenu lycée professionnel au nord de Chevilly-Larue sur la RN 7, avait été réquisitionnée par les troupes d'occupation; à la libération on y découvrira, sommairement enterrés, les cadavres de huit soldats des FFI capturés le 21 août lors de la contre-attaque allemande sur la Mairie de Vitry : Paul Armangot, 36 ans, Robert Coucharrière, 17 ans, et son frère Marcel, 22 ans, Marcel Fievet et ses deux fils Marcel-Aimé, 17 ans, et Jacques 16 ans, Robert Poirier, 26 ans et son frère Roger, 22 ans."
         },
         {
           "type": "note",
@@ -444,60 +450,13 @@
           ]
         },
         {
-          "type": "section-with-title",
-          "title": "Vendredi 25 août",
-          "content": [
-            "De grand matin le bruit du canon et des mitrailleuses sonne un triste réveil. Au carrefour des Sorbiers gisent trois morts. Le maire fait appel aux séminaristes qui font partie de la Croix-Rouge pour les ramasser. Ils trouvent un soldat français en uniforme; il porte la croix de Lorraine sur le casque. Il y a également un civil. Le troisième est un soldat allemand qui avait été caché dans un trou par peur des représailles.",
-            "Pendant que les secouristes s'occupent des morts, des gens indignés et horrifiés annoncent qu'un Père Mazurié, couché sur le dos, à l'angle du carrefour à l'endroit précis de l'arrêt de l'autobus. Le crâne était fracassé, les balles tirées dans la figure étant ressorties par le haut; le bras et la main droite sont couverts de sang; le bas de la soutane est déchiré. A côté de lui gisait un garçon de 17 ans, Jacques Hellouin."
-          ]
-        },
-        {
-          "type": "image-text-layout",
-          "imagePosition": "right",
-          "imageWidth": "1/3",
-          "image": {
-            "src": "images/jacques_hellouin.png",
-            "alt": "Jacques Hellouin"
-          },
-          "content": [
-            "Jacques Hellouin, jeune FFI de 17 ans, est tombé au carrefour des Sorbiers lors des dernières heures de combat. Son sacrifice, aux côtés du Père Mazurié, illustre le prix de la liberté payé par les habitants de Chevilly-Larue."
-          ]
-        },
-        {
-          "type": "paragraphs",
-          "content": [
-            "Toute la journée les troupes américaines passent sur la route de Fontainebleau en direction de Paris. Sur la route Jean Mermoz, c'est l'armée du général Leclerc qui va faire son entrée dans Paris. La foule est là. Elle acclame les libérateurs. Dans les clochers, les cloches chantent joyeusement la victoire."
-          ]
-        },
-        {
-          "type": "image-text-layout",
-          "imagePosition": "left",
-          "imageWidth": "1/2",
-          "image": {
-            "src": "images/les-americains-arrivent.jpg",
-            "alt": "Les Américains arrivent"
-          },
-          "content": [
-            "L'arrivée des troupes alliées marque la fin de quatre années d'occupation. La population de Chevilly-Larue, après avoir vécu les heures les plus sombres, peut enfin célébrer sa libération."
-          ]
-        },
-        {
-          "type": "paragraphs",
-          "content": [
-            "Au moment où tous les blindés défilent sur le territoire de la commune, le curé chasse à coups de pied les jeunes qui veulent sonner les cloches de l'église. Il ne veut pas entendre parler de la victoire des Alliés; c'est un germanophile cent pour cent.",
-            "Marc Ellenberger, dont le résultat des recherches est exposé plus loin, a recueilli auprès d'un ancien FFI de Chevilly-Larue le témoignage suivant : \"Si les cloches n'ont pas sonné c'est parce que le curé n'en avait pas reçu l'ordre de sa hiérarchie et qu'il était du genre timoré; il avait sans doute peur des représailles. Devant son refus énergique, il a été traité de 'collabo' par dépit. Cela ne veut pas vraiment dire qu'il était un collaborateur\".",
-            "Vers les 14h00 toute résistance allemande semble avoir cessé. Le bruit du canon s'est tu. Les drapeaux français et alliés sont accrochés aux fenêtres des maisons; le Séminaire, à cause de la mort du Père Mazurié, ne sortira les siens que dans la soirée; le presbytère, malheureusement, ne pavoisera pas...",
-            "Le soir, sur la place de l'église, une \"cérémonie\" d'un genre nouveau réunit une bonne partie de la population. Il s'agit de flétrir publiquement des femmes et des jeunes filles qui se sont mises au service des Allemands. Afin de les désigner au mépris du public, on les tond et on les rase complètement. Il y a des pleurs et des grincements de dents, des tentatives de résistance, mais finalement il faut y passer. On en compte une dizaine et, comme cela arrive souvent, les principales parviennent à s'échapper.",
-            "La nuit vient terminer cette journée inoubliable : la journée de la délivrance. La bataille de Chevilly est finie."
-          ]
-        },
-        {
           "type": "subsection-title",
-          "title": "Détails sur la mort du Père Mazurié et de Jacques Hellouin"
+          "title": "La mort du Père Mazurié et de Jacques Hellouin (24 août)"
         },
         {
           "type": "paragraphs",
           "content": [
+            "Le 24 août 1944 la leçon d'anglais dans le parc du Séminaire est interrompue. Un canon antichar crache ses obus. L'armée française qui s'avance vers Paris prend brutalement contact avec les soldats allemands qui défendent Chevilly-Larue.",
             "Le Père Mazurié décide de se rendre à Thiais pour présider un salut du Saint-Sacrement chez les Soeurs de Saint-Joseph... Son biographe remarque qu'une plus juste appréciation de la situation lui aurait fait comprendre l'inutilité de ce déplacement au plus fort de la bataille... Le Père Mazurié part..."
           ]
         },
@@ -520,26 +479,180 @@
             "alt": "Avis de décès de Jacques Hellouin"
           },
           "content": [
-            "Le père de Jacques fera paraître cet avis de décès dans <em>Le Parisien Libéré</em> du 2 septembre 1944. Ce document témoigne de la douleur d'une famille frappée par le sacrifice de son fils, tombé pour la liberté de la France à seulement 17 ans."
+            "Son père fera paraître cet avis de décès dans <em>Le Parisien Libéré</em> du 2 septembre 1944."
           ]
         },
         {
           "type": "paragraphs",
           "content": [
-            "Instants plus tard il voit arriver un ecclésiastique, lui aussi à bicyclette, venant de Chevilly. Les mêmes soldats l'interpellent. Un gradé le tire à bout portant. Le Père tombe. Les soldats le traînent sur le bord du champ.",
+            "Vers 17h00 on vient annoncer à la communauté qu'il y a le cadavre d'un Père couché au carrefour des Sorbiers... La victime est bien le Père Mazurié. Il gît lamentablement dans le champ voisin, à l'endroit où s'arrêtent les autobus de Paris. Les bras sont étendus en croix, la soutane est déchirée et souillée, le visage terriblement défiguré; des balles sont entrées par le sommet de la tête et sont sorties par la bouche et ont déchiqueté la mâchoire inférieure. Des gens ont recouvert le visage du mort et ont déposé un petit drapeau tricolore sur le corps. Le bréviaire, le chapelet et la montre ont été dérobées et la bicyclette gît à quelques pas de là, criblée de balles."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Comment s'est passé le drame ? Deux versions",
+          "content": [
+            "Mr Floviac, ouvrier horticole, se trouvait le 24 août à 17h00 au café des \"Pas bileux\". Dissimulé derrière des troènes, il a vu des soldats allemands arrêter un jeune homme à bicyclette et le tuer. Quelques instants plus tard il voit arriver un ecclésiastique, lui aussi à bicyclette, venant de Chevilly. Les mêmes soldats l'interpellent. Un gradé le tire à bout portant. Le Père tombe. Les soldats le traînent sur le bord du champ.",
             "L'autre version, racontée dès le lendemain par la population de Chevilly, indique que le Père Mazurié arrive au carrefour alors que les Allemands malmènent le jeune Jacques Hellouin. Il tente d'intervenir en sa faveur, ce qui provoque la colère des soldats."
           ]
         },
         {
+          "type": "subsection-title",
+          "title": "La mission de Dericbourg et Petit le Roy (24 août)"
+        },
+        {
           "type": "paragraphs",
           "content": [
-            "La cérémonie d'enterrement aura lieu à la Communauté. Les FFI, ayant d'abord accompagné les autres victimes au cimetière communal, viendront escorter le cercueil du Père Mazurié et rendre les honneurs. Une salve de mousquetons saluera la dépouille mortelle."
+            "Le 24 août, le général Chaban envoie le lieutenant Petit le Roy exposer au général Leclerc que la situation devient très préoccupante dans la capitale; les Allemands se préparent à détruire la ville. Il faut que la 2ème DB presse le mouvement. La rencontre se déroule à Antony, tandis que les hommes de Leclerc tentent de réduire le bouchon du carrefour de la Croix de Berny et de la Prison de Fresnes.",
+            "Le général Leclerc rédige un texte d'avertissement à l'attention du général von Choltitz, le rendant responsable des crimes qui seront commis, et charge l'adjudant-chef Augustin Dericbourg de raccompagner Petit le Roy jusqu'à la Préfecture de police ou à l'Hôtel de Ville afin qu'il s'acquitte de sa mission.",
+            "Notons que cet après-midi là, le général Leclerc enverra aussi un piper-cub larguer un message au dessus de la Préfecture de police : \"Le général Leclerc me charge de vous dire Tenez bon, nous arrivons ! signé : le lieutenant-colonel Crépin, commandant l'artillerie de la 2ème DB\" et demandera au capitaine Dronne d'entrer dans Paris à la tête d'une avant-garde d'environ 150 hommes."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "L'adjudant-chef Augustin Dericbourg",
+          "content": [
+            "<strong>L'adjudant-chef Augustin Dericbourg</strong> est né le 7 novembre 1909 dans le Pas de Calais. Il sert à l'Escadron de protection du général Leclerc sous les ordres du capitaine de Boissieu."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Le lieutenant Jacques Petit le Roy",
+          "content": [
+            "<strong>Le lieutenant Jacques Petit le Roy</strong>, né le 26 avril 1916, est officier de liaison du général Chaban, délégué militaire national."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Le drame de la jeep (24 août, 20h30)"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "A 20h30, les quatre hommes partent de Rungis à bord d'une jeep; Gallix au volant, à ses côtés Dericbourg servant la mitrailleuse, à l'arrière Buteau et Petit le Roy. Il s'agit d'abord de récupérer la bicyclette de Petit le Roy (au Séminaire des Missions, semble-t-il). Direction Chevilly par les petites rues, à travers les lotissements sud-est pour éviter la Nationale 7. Un arrêt rue Anatole-France pour demander au coiffeur Vitousek où se trouve la rue Albert-Thuret; il est incapable de répondre. Place de la Prévoyance, un jeune homme, Jean Bocheux, donne le renseignement. La jeep tourne dans l'avenue Pierre-Curie et prend l'avenue des Sorbiers sur la gauche.",
+            "Plus haut, au carrefour de l'avenue des Sorbiers et de la rue de Lallier, se tient le café Soulier. Cet établissement loue des chambres meublées et n'a pas très bonne réputation pendant l'occupation. Racheté par la commune en 1944 pour y installer un bureau de poste, c'est aujourd'hui un poste de police."
           ]
         },
         {
           "type": "paragraphs",
           "content": [
-            "Pour Auguste Brault, son biographe, Laurent Mazurié, s'il avait vécu, n'aurait sans doute pas pris la tête d'entreprises hardies, n'aurait bouleversé ni les personnes ni les évènements... Ce n'était pas sa vocation. Il aurait apporté la goutte d'huile qui adoucit les frictions."
+            "Une dizaine de soldats allemands (selon Gallix), trois ou quatre (selon Buteau) surgissent de derrière le café au moment même où la jeep aborde le carrefour. Ils ont l'air éméchés mais ouvrent le feu sur le véhicule. Dericbourg ordonne à Gallix de manœuvrer afin de riposter avec sa mitrailleuse. Jean Buteau saute de la jeep par la gauche et tombe sur la route. Il court vers la rue Lallier pour se mettre à l'abri dans les herbes. Un soldat allemand, armé de deux pistolets, lui barre le chemin. Buteau lève les bras. \"Pardon ! Camarade !\" Le soldat le laisse passer et reprend son tir sur les occupants de la jeep. Buteau s'accroupit contre le mur du café. Quand le soldat s'éloigne enfin, il bondit dans les herbes et se cache.",
+            "Gallix, qui n'est pas armé, a sauté lui aussi de la jeep et a couru se réfugier dans la cave du café. Dericbourg et Petit le Roy ont été mortellement atteints. Buteau peut voir un soldat allemand s'approcher du civil (Petit le Roy) et tirer un coup de feu. Puis les Allemands mettent la jeep en marche et partent. Il se relève aussitôt et gagne l'impasse Jean-Jaurès où il croise un civil en bras de chemise qui vient vers le carrefour; ce dernier appelle deux ou trois camarades et s'approche de Petit le Roy. Jean Buteau gagne ensuite la maison de M. Liot 47, avenue des Sorbiers où il passe la nuit dans la cave en compagnie des propriétaires. En quittant le carrefour il a aperçu, à la lueur du jour tombant, un soldat allemand allongé sur le dos. Le lendemain matin, vers neuf heures, il rentre à Rungis où il rend compte des évènements à un capitaine de la 2ème DB. Maurice Gallix, quant à lui, dit que l'adjudant-chef Dericbourg, blessé, ne peut pas bien se servir de la mitrailleuse et qu'il est bientôt atteint d'une balle dans la tête alors que Petit le Roy, armé d'un pistolet-mitrailleur, riposte un peu plus longtemps avant de tomber à son tour et d'être achevé d'une balle en plein coeur. Quand il sort de sa cachette, il peut constater que les Allemands sont partis avec la jeep. Un véhicule de la 2ème DB qui vient à point, avec à son bord Etienne Bloch, le prend en charge et le ramène à son unité."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "Sur l'annuaire de la 2ème DB figure un Etienne Bloch, qui comme Gallix sert dans les rangs du 50ème RCC."
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Selon le général de Boissieu, ex-capitaine de l'escadron de protection, le message a bien été transmis au général von Choltitz. Il aurait été récupéré dans la poche de Petit le Roy et porté aussitôt à Paris. Le lieutenant Karcher qui a investi l'hôtel Meurice le lendemain 25 août a dit l'avoir vu sur le bureau du général. Un collectionneur l'a-t-il mis soigneusement de côté ?"
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Vendredi 25 août"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "De grand matin le bruit du canon et des mitrailleuses sonne un triste réveil. Au carrefour des Sorbiers gisent trois morts. Le maire fait appel aux séminaristes qui font partie de la Croix-Rouge pour les ramasser. Ils trouvent un soldat français en uniforme; il porte la croix de Lorraine sur le casque. Il y a également un civil. Le troisième est un soldat allemand qui avait été caché dans un trou par peur des représailles.",
+            "Au réveil, Chevilly se trouve libéré. Des cadavres de soldats allemands, au coin des rues, montrent que cela ne s'est pas fait sans peine. On voit défiler les troupes françaises sur les routes nationales d'Orléans et Fontainebleau."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "right",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/jacques_hellouin.png",
+            "alt": "Jacques Hellouin"
+          },
+          "content": [
+            "Jacques Hellouin, jeune FFI de 17 ans, est tombé au carrefour des Sorbiers lors des dernières heures de combat. Son sacrifice, aux côtés du Père Mazurié, illustre le prix de la liberté payé par les habitants de Chevilly-Larue."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Toute la journée les troupes américaines passent sur la route de Fontainebleau en direction de Paris. Sur la route Jean Mermoz, c'est l'armée du général Leclerc qui va faire son entrée dans Paris. La foule est là. Elle acclame les libérateurs. Dans les clochers, les cloches chantent joyeusement la victoire. Au moment où tous les blindés défilent sur le territoire de la commune, le curé chasse à coups de pied les jeunes qui veulent sonner les cloches de l'église. Il ne veut pas entendre parler de la victoire des Alliés; c'est un germanophile cent pour cent.",
+            "Marc Ellenberger, dont le résultat des recherches est exposé plus loin, a recueilli auprès d'un ancien FFI de Chevilly-Larue le témoignage suivant : \"Si les cloches n'ont pas sonné c'est parce que le curé n'en avait pas reçu l'ordre de sa hiérarchie et qu'il était du genre timoré; il avait sans doute peur des représailles. Devant son refus énergique, il a été traité de 'collabo' par dépit. Cela ne veut pas vraiment dire qu'il était un collaborateur\"."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/les-americains-arrivent.jpg",
+            "alt": "Les Américains arrivent"
+          },
+          "content": [
+            "L'arrivée des troupes alliées marque la fin de quatre années d'occupation. La population de Chevilly-Larue, après avoir vécu les heures les plus sombres, peut enfin célébrer sa libération."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Vers les 14h00 toute résistance allemande semble avoir cessé. Le bruit du canon s'est tu. Les drapeaux français et alliés sont accrochés aux fenêtres des maisons; le Séminaire, à cause de la mort du Père Mazurié, ne sortira les siens que dans la soirée; le presbytère, malheureusement, ne pavoisera pas...",
+            "Le soir, sur la place de l'église, une \"cérémonie\" d'un genre nouveau réunit une bonne partie de la population. Il s'agit de flétrir publiquement des femmes et des jeunes filles qui se sont mises au service des Allemands. Afin de les désigner au mépris du public, on les tond et on les rase complètement. Il y a des pleurs et des grincements de dents, des tentatives de résistance, mais finalement il faut y passer. On en compte une dizaine et, comme cela arrive souvent, les principales parviennent à s'échapper.",
+            "La nuit vient terminer cette journée inoubliable : la journée de la délivrance. La bataille de Chevilly est terminée, mais la guerre continue. Le canon gronde dans le lointain; les lueurs d'incendies s'élèvent à l'horizon. Les Allemands ne sont qu'à quelques kilomètres; la route est encore longue jusqu'à la victoire. Mais nos soldats sont des braves. Avec l'aide de Dieu, on les aura !"
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Les obsèques et hommages"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Les obsèques de Dericbourg et Petit le Roy seront photographiées par Roger Parry le 28 août. Une première plaque est fleurie à l'endroit où sont tombés Dericbourg et Petit-le-Roy. Le curé Alphonse Rousseau célèbre la cérémonie funèbre. La population de Chevilly-Larue les accompagne jusqu'au cimetière communal où les FFI rendent les honneurs. Un monument commémoratif se trouve dans le cimetière.",
+            "La cérémonie d'enterrement du Père Mazurié aura lieu à la Communauté. Les FFI, ayant d'abord accompagné les autres victimes au cimetière communal, viendront escorter le cercueil du Père Mazurié et rendre les honneurs. Une salve de mousquetons saluera la dépouille mortelle."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Biographie du Père Laurent Mazurié"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Le Père Gérard Vieira, archiviste général de la Congrégation du Saint-Esprit, a communiqué la notice biographique du Père Laurent Mazurié.",
+            "Laurent Mazurié est né le 25 novembre 1916 dans une famille d'agriculteurs bretons à Saint-Servais (Finistère). Orphelin de père très jeune, une mère très croyante, Laurent quitte ses dix frères et soeurs pour se présenter le 18 septembre 1929, à l'âge de 13 ans, au Postulat de Langonnet où il entre en classe de 6ème. Il étudiera ensuite à Cellule, Orly, Mortain et Chevilly-Larue. Il n'a pas, selon ses Supérieurs, l'audace et l'esprit de décision nécessaires à l'action missionnaire. Il se livre à un travail laborieux, productif, bien noté ... mais calme."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "La mobilisation et la débâcle de 1940",
+          "content": [
+            "Le voilà mobilisé le 17 septembre 1939 à Versailles. La guerre éclair de mai 1940, la retraite ... Châteaufont, Chevreuse, Choisei, Rambouillet, Orléans, Romorantin, Massay, La Puye, Chauvigny, Confolens, Rochechouart, Sainte-Foy la Grande, La Réole, Orthez, Mauléon, Garlin et enfin Pau où il est démobilisé le 26 août. Laurent Mazurié a scrupuleusement noté les étapes de cette déroute et ses impressions sur le vif : \" des réfugiés sur la route... la souffrance partout... pas assez de pain... très fatigués par la marche... couché sur le bois... sol humide... départ précipité, marche longue et fatigante, alerte aux avions... arrivés à minuit dans un cantonnement, nuit pénible, des avions, ravitaillement défectueux... discussions parce que pas assez à manger... il faudrait plus d'attention de la part des chefs... trop d'égoïsme... vu les conditions de l'armistice : très humiliantes...\"",
+            "Dans son journal, Laurent Mazurié qualifie cette retraite de vaincus \"d'épreuve du Seigneur\"."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Les années d'Occupation à Chevilly-Larue",
+          "content": [
+            "De retour à Chevilly-Larue, il continue de prendre des notes : en 1941, les bombardements de Brest, la mort de parents et d'amis, les queues toujours plus nombreuses devant les magasins, la situation de son frère prisonnier, les victoires allemandes... en 1942 la prise d'Alger... l'arrachage des navets et des betteraves, l'enterrement du Père Ganot... \"demain ce sera mon tour : être prêt\"... Le 1er février 1943, il est admis à l'infirmerie : un début de pleurésie sans doute contracté en réparant les bicyclettes de la Congrégation dans un hangar trop exposé aux vents d'hiver. Il rechute tandis que ses confrères accèdent au Sous-diaconat, au Diaconat et à la Prêtrise. Il lui faudra attendre le 5, 12 et 19 septembre 1943..."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Pour Auguste Brault, son biographe, Laurent Mazurié, s'il avait vécu, n'aurait sans doute pas pris la tête d'entreprises hardies, n'aurait bouleversé ni les personnes ni les évènements ... Ce n'était pas sa vocation. Il aurait apporté la goutte d'huile qui adoucit les frictions."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Recherches de Marc Ellenberger"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Marc Ellenberger, archiviste municipal et chargé de mission auprès de l'association des Amis du Vieux Chevilly-Larue, s'est livré à une enquête approfondie sur les circonstances dans lesquelles Dericbourg et Petit le Roy ont été tués. Il a pu recueillir deux témoignages extrêmement précis, celui de Maurice Gallix, soldat de la 2ème DB qui conduisait la jeep de l'adjudant-chef Dericbourg, et celui de Jean Buteau, un civil qui s'est proposé comme guide au moment du départ; ayant demeuré à Chevilly avant guerre il connaît bien les lieux.",
+            "Marc Ellenberger, co-auteur de \"Il était une fois Chevilly-Larue\" (1997 imprimerie Maury) et de \"Mémoires en images, Chevilly-Larue\" (2003 Editions Alan Sutton), a dressé un plan de l'itinéraire de la jeep de l'adjudant-chef Dericbourg.",
+            "Pourquoi demander au coiffeur Vitousek la rue Albert-Thuret qui se trouve au Nord-Ouest de Chevilly-Larue ? Ce n'est pas la direction de Paris. Est-ce pour récupérer la bicyclette de Petit le Roy qui n'aurait donc pas été laissée au Séminaire ?"
           ]
         },
         {
