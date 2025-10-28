@@ -1,0 +1,713 @@
+{
+  "title": "L'histoire d'une vie",
+  "subtitle": "Mémoires de Philippe Beaumatin",
+  "events": [
+    {
+      "date": "8 FÉVRIER 1939",
+      "title": "Le Commencement",
+      "quote": "Je suis né le 8 février 39 à 6h du matin (pauvre mère) le jour de la sainte Jacqueline !!!",
+      "sections": [
+        {
+          "type": "text-box",
+          "style": "border-color-4",
+          "content": "Alors mon départ dans la vie a été très aléatoire puisque je suis né avec le cordon ombilical enroulé autour du cou et c'est donc une voisine qui a procédé à l'ondoiement afin que je puisse accéder à l'au-delà en passant par la grande porte. Je suis donc né le 8 février 1939 le jour de la sainte Jacqueline. À cette époque, il y avait un saint par jour. Maintenant on ne souhaite plus la ou le saint, on fête..."
+        },
+        {
+          "type": "explanation-box",
+          "content": "L'ondoiement était une forme simplifiée de baptême, administrée en urgence par toute personne présente (souvent une sage-femme ou une voisine) lorsque la vie d'un nouveau-né était en danger immédiat. Dans le cas de Philippe, né avec le cordon ombilical autour du cou, cette pratique visait à lui assurer, selon les croyances de l'époque, l'accès au salut éternel en cas de décès prématuré, même sans la présence d'un prêtre. C'était un geste de piété et de précaution face à une naissance jugée \"très aléatoire\"."
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "C'est ainsi que tout commence, à l'aube, dans une maison de la <strong class=\"font-semibold text-color-1\">rue de la Sente aux Bœufs</strong>, à la frontière entre Bihorel et Saint-Martin-du-Vivier. Ce nom de rue, hérité du passé agricole, rappelle une époque où les champs et les sentiers de troupeaux dessinaient le paysage.",
+            "En 1939, Bihorel vibre encore de sa réputation de \"Montmartre Rouennais\", une commune animée par ses bals et ses fêtes, mais l'insouciance est fragile. Dans quelques mois à peine, le 1er septembre, l'invasion de la Pologne marquera le début de la Seconde Guerre mondiale, plongeant le monde dans une nouvelle ère."
+          ]
+        },
+        {
+          "type": "calendar",
+          "month": "Février 1939",
+          "highlightDay": 8
+        },
+        {
+          "type": "image-grid",
+          "columns": 4,
+          "images": [
+            {
+              "src": "images/Eglise-Bihorel1.jpg",
+              "alt": "Église de Bihorel",
+              "caption": "L'église Notre-Dame-des-Anges."
+            },
+            {
+              "src": "images/Eglise-Bihorel2.jpg",
+              "alt": "Église de Bihorel, autre vue",
+              "caption": "Vue intérieure de l'église."
+            },
+            {
+              "src": "images/mairie-Bihorel.jpg",
+              "alt": "Mairie de Bihorel",
+              "caption": "La mairie de Bihorel, témoin de l'époque."
+            },
+            {
+              "src": "images/Eglise-Bihorel3.jpg",
+              "alt": "Intérieur de l'église de Bihorel",
+              "caption": "Vue extérieure de l'église."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "VERS 1940",
+      "title": "Mes premiers pas",
+      "quote": "mes premiers pas dans la vie.",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/papa1.jpeg",
+            "alt": "Les premiers pas de mon père"
+          },
+          "content": [
+            "Un an à peine s'est écoulé. Sur cette photo, il explore le monde à quatre pattes, puis sur ses deux jambes, dans la maison familiale du <strong class=\"font-semibold text-color-1\">7, rue de la Sente aux Bœufs</strong>. Un moment de pure innocence, capturé alors que dehors, la \"drôle de guerre\" a commencé et que l'avenir de l'Europe est plus incertain que jamais."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "SOUVENIRS D'ENFANCE",
+      "title": "Chez Grand-Mère Foncine",
+      "quote": "Jacques vraisemblablement chez grand-mère Foncine",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Ces photos montrent Jacques, de sept ans l'aîné de mon père. Né en 1932, il traverse ces années de guerre avec un regard d'enfant déjà plus mûr. Ces clichés sont des moments de vie préservés, des instants de répit durant une période sombre de l'Histoire."
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 6,
+          "images": [
+            {
+              "src": "images/jacques1.png",
+              "alt": "Jacques chez sa grand-mère"
+            },
+            {
+              "src": "images/jacques2.jpeg",
+              "alt": "Jacques chez sa grand-mère, autre photo"
+            },
+            {
+              "src": "images/jacques3.jpg",
+              "alt": "Jacques chez sa grand-mère"
+            },
+            {
+              "src": "images/jacques4.jpg",
+              "alt": "Jacques chez sa grand-mère, autre photo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "DÉBUT DES ANNÉES 1940",
+      "title": "La maison de la Sente aux Bœufs",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "multipleImages": true,
+          "images": [
+            {
+              "src": "images/papa2.png",
+              "alt": "Photo de Philippe enfant"
+            },
+            {
+              "src": "images/jacques-philippe2.png",
+              "alt": "Photo de Jacques et Philippe enfants"
+            }
+          ],
+          "content": [
+            "Ces photos ont vraisemblablement été prises à Bihorel en 1942, peut-être avant la photo où je pose avec Jacques et où j'ai les cheveux courts. La maison, qui appartenait à mes parents, se trouvait Sente aux Bœufs. C'est là que Jacques et moi sommes nés."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1942",
+      "title": "Jacques et Philippe",
+      "quote": "photo prise à Rouen en 1942",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/jacques-philippe.png",
+            "alt": "Jacques et Philippe en 1942"
+          },
+          "content": [
+            "Mon père, Philippe, a 3 ans. Son frère Jacques en a 10. La photo est prise à Rouen, alors sous occupation allemande. La vie est difficile, marquée par les restrictions et la peur, mais la fraternité offre une bulle de normalité et de tendresse dans un monde en plein chaos."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "SOUVENIRS DE FAMILLE",
+      "title": "Chez Tante Louise",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/tantelouise-memere-jacques-papa.jpeg",
+            "alt": "Tante Louise, Mémère, Jacques et Philippe"
+          },
+          "content": [
+            "Chez tante Louise, tante de maman, sœur de ma grand-mère maternelle. Ça avait dû camphrer !!"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1942 - ROUEN",
+      "title": "Souvenirs de la rue du Gros-Horloge",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "La rue du Gros-Horloge. Année 1942. Mes tout premiers souvenirs. Lorsque l'on se trouve devant la cathédrale de Rouen et que l'on a une pensée pour Jeanne d'Arc et que l'on veut aller place du Vieux-Marché, on passe naturellement par la rue du Gros-Horloge.",
+            "C'est dans cette rue que tante Hélène, une sœur de mon père, tenait un restaurant, <strong class=\"font-semibold text-color-1\">Le Petit Frascati</strong>, un restaurant comme fleurissent ceux d'aujourd'hui : pour les salariés. On y mangeait bien pour pas cher et avec un service rapide. Le mari de ma tante, l'oncle Romain, n'était pas sérieux. Il jouait aux cartes dans un bouge, des jeux d'argent. Ayant souvent des subsides sur lui, il aurait été poussé dans les escaliers et se serait tué en tombant. Pas d'argent, pas de trace, pas d'enquête. Je n'ai donc pas connu cet homme qui était mon parrain. Philippe, Romain, Marcel (Marcelle ma marraine).",
+            "Je me souviens parfaitement des dispositions de ce restaurant car nous y sommes retournés après la guerre. Maman y avait été serveuse avec tante Émilie, une autre sœur de mon père. Oncle Romain et tante Hélène avaient eu trois enfants, donc des cousins germains : Albert, Denise et Michel. Oncle Romain martyrisait ses deux fils, qu'il frappait en les emmenant dans les étages pour ne pas qu'on entende leurs cris. Il adorait sa fille."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "Le Frascati est un cépage italien cultivé sur les hauteurs de Rome."
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Dame Denise, un jour, m'a emmené me \"prembedé\" (promener). À pied, elle devait habiter dans une petite rue près du Frascati et j'avais de petites jambes. Elle avait un appartement (location ?) à l'étage d'un immeuble. C'est très bizarre, je revois l'ouverture de sa porte, les gonds à droite. La porte se rabattait sur un mur où il y avait une fenêtre au volet fermé. Il y avait un rideau à cette fenêtre. La pièce était éclairée par une petite lampe jaunie qui pendait du plafond et sur la gauche, l'éclairage discret laissait entrevoir un meuble très long, sombre, et ma tête arrivait juste à sa hauteur. Dents blanches... et comme je l'ai dit le jour de mes 80 ans, j'ai longtemps fait l'analogie entre ce meuble aux dents blanches (un piano) et les dents de mon acteur préféré quand j'étais ado : Fernandel.",
+            "1942, c'est sûr, car c'est l'année où nous sommes arrivés à Chevilly-Larue. Mon père, au chômage, venait y chercher du travail chez un de ses frères, oncle Angel. Et lorsque Winston Churchill a fait bombarder la France pour démoraliser les Allemands, ma cousine a tout perdu dans le bombardement. Je n'ai pas pu revoir son logement après. Le Petit Frascati a échappé à la catastrophe.",
+            "Denise s'est mariée après la guerre avec un ancien milicien, Jacques Sessey."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "HISTOIRE DE ROUEN",
+      "title": "La Rue du Gros-Horloge à travers le temps",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "La Rue du Gros-Horloge est l'une des artères les plus emblématiques et historiques de Rouen. Reliant la Cathédrale Notre-Dame à la Place du Vieux-Marché, elle est célèbre pour son Gros-Horloge, une horloge astronomique du XIVe siècle encastrée dans un beffroi. Cette rue piétonne est un véritable voyage dans le temps, bordée de maisons à pans de bois et de boutiques, témoignant de la richesse architecturale et commerciale de la ville à travers les siècles. Elle a été le cœur battant de Rouen, un lieu de passage incontournable et un témoin privilégié des événements marquants de l'histoire rouennaise, y compris les périodes de guerre et de reconstruction."
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 5,
+          "images": [
+            {
+              "src": "images/horloge1.jpg",
+              "alt": "Rue du Gros-Horloge, carte postale ancienne 1"
+            },
+            {
+              "src": "images/horloge2.jpg",
+              "alt": "Rue du Gros-Horloge, carte postale ancienne 2"
+            },
+            {
+              "src": "images/horloge3.jpg",
+              "alt": "Rue du Gros-Horloge, carte postale ancienne 3"
+            },
+            {
+              "src": "images/horloge4.jpg",
+              "alt": "Rue du Gros-Horloge, carte postale ancienne 4"
+            },
+            {
+              "src": "images/horloge5.jpg",
+              "alt": "Rue du Gros-Horloge, carte postale ancienne 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "ANNÉES 1940",
+      "title": "Chevilly-Larue sous l'Occupation",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Durant les années sombres de la Seconde Guerre mondiale, Chevilly-Larue, comme de nombreuses communes françaises, a vécu au rythme de l'Occupation. La vie quotidienne était marquée par les restrictions, la présence des troupes allemandes et l'angoisse des bombardements. Malgré les difficultés, la communauté tentait de maintenir un semblant de normalité. Des lieux emblématiques comme le Séminaire, l'église, la mairie et les écoles ont été les témoins silencieux de cette période, abritant parfois des activités de résistance ou servant de refuge. Ces images nous rappellent la résilience des habitants face à l'adversité."
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 5,
+          "images": [
+            {
+              "src": "images/seminaire-chevilly-larue.jpg",
+              "alt": "Séminaire de Chevilly-Larue pendant la guerre",
+              "caption": "Le Séminaire de Chevilly-Larue."
+            },
+            {
+              "src": "images/seminaire-chevilly-larue2.jpg",
+              "alt": "Séminaire de Chevilly-Larue, vue 2",
+              "caption": "Le Séminaire de Chevilly-Larue (vue 2)."
+            },
+            {
+              "src": "images/seminaire-chevilly-larue3.jpg",
+              "alt": "Séminaire de Chevilly-Larue, vue 3",
+              "caption": "Le Séminaire de Chevilly-Larue (vue 3)."
+            },
+            {
+              "src": "images/eglise-chevilly-larue.jpg",
+              "alt": "Église de Chevilly-Larue pendant la guerre",
+              "caption": "L'église paroissiale."
+            },
+            {
+              "src": "images/mairie-chevilly-larue.jpg",
+              "alt": "Mairie de Chevilly-Larue pendant la guerre",
+              "caption": "La Mairie de Chevilly-Larue."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "CONTEXTE HISTORIQUE",
+      "title": "Le bombardement de la centrale électrique de Chevilly-Larue (3 octobre 1943)",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Voici une documentation synthétique sur le bombardement de la centrale électrique de Chevilly-Larue, basé sur les informations historiques disponibles.",
+            "Il s'agit d'une opération militaire ciblée, menée le <strong>dimanche 3 octobre 1943</strong>, pendant la Seconde Guerre mondiale."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "L'Opération \"Ramrod 244\"",
+          "content": [
+            "Le bombardement de la sous-station électrique de Chevilly-Larue (parfois appelée centrale) était une mission stratégique de la Résistance extérieure française, menée sous l'égide de la Royal Air Force (RAF)."
+          ],
+          "list": [
+            "<strong>L'objectif :</strong> La sous-station de Chevilly-Larue était un nœud vital pour l'alimentation électrique de la région parisienne et des infrastructures utilisées par l'occupant allemand. Sa destruction visait à paralyser l'industrie et la logistique ennemies.",
+            "<strong>L'unité :</strong> L'attaque a été menée par les <strong>Forces Aériennes Françaises Libres (FAFL)</strong>, spécifiquement le <strong>Groupe de Bombardement \"Lorraine\"</strong> (connu sous la désignation britannique <strong>No. 342 Squadron</strong>).",
+            "<strong>La tactique :</strong> Douze bombardiers légers <strong>Douglas Boston III</strong> ont décollé d'Angleterre. Pour garantir une précision maximale et échapper aux radars et à la défense anti-aérienne (Flak), l'opération a été menée en <strong>rase-mottes</strong> (vol à très basse altitude)."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Personnalités et Faits Notables",
+          "content": [
+            "Cette mission est particulièrement célèbre en France pour deux raisons :"
+          ],
+          "orderedList": [
+            "<strong>Pierre Mendès France :</strong> Le futur Président du Conseil (Premier ministre) français, Pierre Mendès France, a participé à ce raid en tant que navigateur (observateur) à bord d'un des avions.",
+            "<strong>Un raid français sur Paris :</strong> C'était l'une des premières fois que des aviateurs français des Forces Libres survolaient et bombardaient un objectif stratégique si proche de Paris, un acte au symbole fort."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Bilan et Pertes",
+          "content": [
+            "L'opération fut un succès militaire, mais elle a entraîné des pertes humaines."
+          ],
+          "nestedList": [
+            {
+              "item": "<strong>Succès de la mission :</strong> La sous-station électrique fut gravement endommagée et mise hors service, atteignant l'objectif principal du raid."
+            },
+            {
+              "item": "<strong>Pertes civiles :</strong> Bien que l'attaque ait été conçue pour être chirurgicale, la précision du bombardement en rase-mottes n'était pas parfaite. Une ou plusieurs bombes ont manqué leur cible et sont tombées sur un pavillon voisin où se déroulait un repas de baptême. Les sources historiques (notamment Wikipédia et des sites de la France Libre) s'accordent sur un bilan civil tragique de <strong>16 morts et 21 blessés</strong> au sol."
+            },
+            {
+              "item": "<strong>Pertes militaires (FAFL) :</strong>",
+              "subItems": [
+                "<strong>Le crash du Pont de Tolbiac :</strong> Un avion, touché par la Flak, celui du <strong>lieutenant Yves François Lamy</strong>, a tenté de regagner l'Angleterre. Voyant qu'il n'y parviendrait pas et pour éviter de s'écraser sur les habitations parisiennes, l'équipage a dirigé l'appareil vers la Seine. L'avion s'est écrasé près du <strong>Pont de Tolbiac</strong> (Paris 13e). Les quatre membres d'équipage ont été tués. Une plaque commémorative leur rend hommage sur le pont.",
+                "<strong>L'avion du sous-lieutenant Lucchesi :</strong> Un second appareil, piloté par Yves Lucchesi, a également été gravement touché. Le pilote a réussi un atterrissage forcé dans un champ. L'équipage a survécu ; Lucchesi, blessé, parvint à s'évader et à regagner l'Angleterre via l'Espagne."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "SOUVENIR PERSONNEL",
+      "title": "Souvenir de bombardement",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Il faisait beau ce jour-là. Maman était en bas des escaliers, derrière la maison. Elle lavait le linge et s'était installée au soleil près de l'entrée de la cave où il y avait un point d'eau et la possibilité d'évacuer les eaux usées. La porte de la cuisine était ouverte et je me trouvais sur le petit perron.",
+            "Une petite parcelle de terrain avait été attribuée à mon père dans le champ à proximité de chez nous, située dans l'axe qui allait de chez nous au camp militaire allemand, mais plus près de chez nous. Heureusement, il trimait pour nous apporter un peu de bien-être dans l'assiette. Ma mère aussi trimait. C'était le quotidien des gens modestes. C'était la guerre.",
+            "Je revois maman penchée sur son baquet métallique reposant sur un trépied en bois. Sa planche inclinée reposait sur le bord du baquet et je la voyais frotter, frotter avec sa brosse en chiendent. Tout à coup, un fort vrombissement m'a intéressé. Et je vois des avions surgir en rase-mottes au-dessus des arbres du séminaire.",
+            "Ils passaient entre le camp allemand et chez nous. Il y avait, pour protéger leur camp, une 'saucisse' (ballon de barrage). Je ne la voyais pas ce jour-là, mais elle devait y être. Les avions volaient bas pour ne pas être ciblés par la DCA. Une bombe tombe dans le champ où jardinait mon père.",
+            "Je crois que nous avons eu une chance inouïe, car mon père aurait pu être touché autrement que par l'immense quantité de terre soulevée. J'entends encore hurler ma mère, me donnant l'ordre de rentrer dans la cuisine. Où était mon frère ? À Chevilly, en train de se distraire avec des copains. Il avait une douzaine d'années. Il n'était pas présent.",
+            "Des morts, il y en a eu à ce moment-là. Un pavillon a été détruit, et une famille. Quelle chance nous avons eue ! Ce pavillon était à, disons, 300 m de chez nous. Pour un avion qui bombarde, cette distance, ce n'est rien."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "ARCHIVES MUNICIPALES",
+      "title": "Il y a 70 ans : De l'Occupation à la Libération de Chevilly-Larue (1ère partie)",
+      "id": "chevilly-liberation-part1",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "À l'approche du débarquement allié, puis de la Libération, la tension monte à Chevilly-Larue et la mobilisation de la Résistance s'accroît.",
+            "En mai 1944, voilà bientôt 4 ans que Chevilly-Larue vit sous l'Occupation et que des troupes allemandes casernent dans une partie du séminaire. L'espoir de la Libération semble alors se rapprocher, mais ce n'est pas sans inquiétude de la part de la population sur ses conséquences, comme en témoigne le texte contenu dans une bouteille solennellement scellée dans le socle du calvaire installé près de l'église le dimanche 21 mai :",
+            "« L'angoisse et l'inquiétude grandissent, car on s'attend à un débarquement des troupes alliées, et on redoute ses conséquences inévitables : la famine […], les bombardements […], et, peut-être, l'exode forcé. »",
+            "Depuis le début de l'Occupation, les nombreux cheminots de Chevilly-Larue ne restent pas passifs devant les événements, rejoignant la Résistance, avec le risque d'être tués, comme François Sautet et Georges Margueriteau, fusillés le 11 août 1942, ou déportés, comme notamment le docteur Léon Elmelik, arrêté le 14 mars 1943. Commencée modestement le 14 juillet 1941, la Résistance chevillaise a pris de plus amples proportions. Toutes les catégories ne sont pas représentées : agents des services publics, artisans, employés communaux, instituteurs ; impression, transport et distribution de tracts et journaux clandestins, réalisation et collage d'affiches, missions de liaison, etc. Robert Nicolt ose coller des affiches sur le mur du séminaire peu de temps après la chute des Messalines, allemands en place dans la ville ou à Rungis. Le risque aussi d'être dénoncé par des collaborateurs, telle cette jeune fille du quartier des Sorbiers (actuelle avenue du Président Roosevelt), amante d'un officier allemand, qui a fait arrêter le 24 mai 1943 quatre jeunes résistants qui s'étaient pris sur la chaussée « Vive de Gaulle ! Doriot au poteau ! »",
+            "Les Chevillais apprennent enfin par Radio-Londres le débarquement allié en Normandie le 6 juin 1944. Le lendemain, les troupes allemandes cantonnées au séminaire font des tours de char pour montrer leur force. Le 8 juin, trois jeunes résistants amis menacent le secrétaire de mairie pour qu'il leur remette la liste des requis pour le STO (Service du travail obligatoire) et des tickets d'alimentation. Le 23 juin, en réaction à des tracts annonçant l'arrivée imminente des Alliés, les occupants placardent des affiches menaçant de mort quiconque diffuserait de fausses nouvelles ou qui serait trouvé porteur de tracts. Tout habitant, considéré comme franc-tireur, sera puni de mort. La tension monte au fur et à mesure de la progression des Alliés.",
+            "Le matin du 14 juillet, les Chevillais ont la bonne surprise de voir le drapeau français flotter au sommet de la cheminée de la briqueterie Lepage, rue de Chevilly à L'Haÿ-les-Roses : c'est l'œuvre audacieuse du jeune résistant Marcel Jolivet. Craignant des représailles, le maire, Ernest George, fait enlever le drapeau par les pompiers de Bourg-la-Reine. Le lendemain, un nouveau drapeau est hissé ; cette fois, Marcel Jolivet a descendu les barreaux supérieurs de la cheminée pour les redescendre, tout en proclamant que le drapeau resterait. Les occupants renforcent la surveillance. Le 26 juillet, Henri Blonde est tué à la mitraillette par des miliciens, chez lui, rue Pierre Curie : la milice invoque qu'elle a aussi arrêté des « terroristes ». L'instituteur du quartier, Robert Nicolt, veut aux abois leur échapper, mais il est blessé par balle. Il s'enfuit en laissant des gouttes de sang derrière lui et se cache dans le vide sous sa maison ; heureusement, son chien lèche son sang devant chez lui et les miliciens, perdant la piste, abandonnent sa trace.",
+            "Au fur et à mesure que les Alliés approchent, les troupes allemandes quittent le séminaire le 17 août ; le lendemain, des résistants du secteur prennent le poste de garde du transformateur électrique. Des Sœurs du monastère Saint-Michel cousent des insignes F.F.I. (Forces françaises de l'intérieur) avec des tissus apportés par le résistant Michel Hochart. L'effervescence gagne avec le début de l'insurrection de Paris le 19 août. Ce jour-là, des jeunes résistants chevillais ont l'imprudence d'arborer dans Chevilly leurs brassards F.F.I. Ils sont poursuivis, mais arrivent à s'échapper ; deux d'entre eux se cachent dans une tranchée creusée dans le verger du séminaire. L'un d'eux, René Hommet, résistant isolé de la municipalité de Chevilly-Larue, est abattu par un soldat allemand au cours d'une rafle le lendemain matin.",
+            "Les troupes allemandes cantonnées dans la ville se rendent ensuite coupables d'exactions et d'assassinats. La population est menacée de représailles. Les résistants restés sur place se cachent. Michel Hochart, encouragé par l'avance des Alliés, accroche le drapeau tricolore au balcon de la mairie. La réaction des occupants ne se fait pas attendre : ils l'arrachent et menacent de fusiller des otages. Les habitants se terrent chez eux. Les libérateurs arrivent à Antony et à Fresnes les journées du 24 août."
+          ],
+          "author": "Marc Ellenberger<br>Archiviste municipal"
+        }
+      ]
+    },
+    {
+      "date": "26 JUILLET 1944",
+      "title": "Assassinat d'Henri Blondé à Chevilly-Larue",
+      "quote": "Le 26 juillet, Henri Blondé est tué à la mitraillette par des miliciens, chez lui, rue Pierre Curie.",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Cet événement tragique s'inscrit dans le contexte de la Résistance à Chevilly-Larue. Pour le récit complet de cette journée, incluant l'acte audacieux de Marcel Jolivet et les circonstances de l'assassinat d'Henri Blondé, veuillez consulter la section détaillée : <a href=\"/memoire#chevilly-liberation-part1\" class=\"text-color-1 underline\">Il y a 70 ans : De l'Occupation à la Libération de Chevilly-Larue (1ère partie)</a>."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Source (Extrait)",
+          "content": [
+            "Extrait de : \"Il y a 70 ans : De l'Occupation à la Libération de Chevilly-Larue (1ère partie)\", <em>Chevilly-Larue le journal</em>, n°155, mai 2014"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "19-25 AOÛT 1944",
+      "title": "La Libération de Paris et de Chevilly-Larue",
+      "quote": "La nuit de la Saint Barthélemy passée dans les caves devient pour Chevilly une nuit historique.",
+      "sections": [
+        {
+          "type": "subsection-title",
+          "title": "La libération de Chevilly-Larue"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Chevilly-Larue, petite ville d'environ 3 300 habitants pendant la guerre, se trouve au carrefour de deux axes routiers importants : la RN 7 qui monte sur Paris et la RN 186 qui relie Créteil à Versailles (l'actuelle A86). Les Alliés abordent la capitale par le Sud, le Groupement Langlade progressant sur la RN 10, le Groupement Billotte sur la RN 20, les Américains de la 4ème Division d'infanterie par la RN 7.",
+            "Les Allemands ont installé la \"ceinture défensive de Paris\" le long de cette RN 186. Le 24 août le commandant Massu essuiera des pertes à Jouy en Josas, les combats de Fresnes et d'Antony seront meurtriers.",
+            "Les Américains ont été signalés sur la RN 7 dès le 22 août : des FFI de Choisy le Roi rendent compte à la Préfecture de police que les Allemands se replient à Belle-Epine et que des motocyclistes américains ont été tués avant Rungis (il doit s'agir d'une patrouille de reconnaissance). Le 24 août à 16h15 la gendarmerie de Belle-Epine appelle à son tour pour indiquer que des canons américains tirent sur la défense allemande constituée de canons de 88 anti-chars...",
+            "Après guerre, le Père Joseph Heidmann a rédigé, à partir des archives du Séminaire des Missions de la Congrégation du Saint-Esprit, un récit très détaillé des évènements qui ont marqué la libération de Chevilly-Larue :"
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Mercredi 23 août",
+          "content": [
+            "Les maires sont changés dans presque toutes les communes. Quelques uns même sont arrêtés comme collaborateurs. Monsieur Hochart devient maître de Chevilly. Le ravitaillement est de plus en plus difficile, à commencer par le pain. 50 grammes par personne et par jour. Si la farine ou le bois de chauffage ne manque pas. Voici que ce matin la radio joue la Marseillaise. Le speaker annonce : \"Paris est libéré par les FFI\". Tout le monde respire. La guerre est finie... La réalité s'avère toute autre. L'on se bat dans les rues de Paris. Ceux qui reviennent en savent quelque chose, mais également ceux qui ne reviennent pas. La liste des victimes est longue. L'action de la Résistance s'exerce vigoureusement. Les blindés américains se trouvent dans la région de Corbeil-Essonnes.",
+            "La banlieue parisienne est toujours occupée. Les Allemands mettent la route de Fontainebleau en état de défense. Ils passent dans Chevilly en auto, armés de mitrailleuses et prêts à tirer. Ceux qui hier ont menacé de bombarder le village à cause d'un soldat allemand tué dans le quartier de la Chapelle Sainte Colombe sont partis sans mettre leur menace à exécution. Pendant la nuit éclate un gros orage accompagné de trombes d'eau et de coups de tonnerre terribles... signe avant-coureur de l'orage plus terrible encore qui éclatera demain."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Jeudi 24 août",
+          "content": [
+            "Il pleut. Le maire fait savoir à la population que les Alliés s'approchent sur la route de Fontainebleau et sur la route d'Orléans. De fait la bataille commence à l'ouest et au sud de Chevilly. Les Allemands passent dans nos rues et s'efforcent d'arrêter les blindés français qui débouchent sur le plateau de Wissous et Rungis. On les voit circuler sur la route de Versailles.",
+            "Midi, le bruit des mitrailleuses et des canons se rapproche. Les obus sifflent et éclatent assez près des maisons. Vers les 14h00 des chars français stationnent sur la route de Versailles et tirent de temps en temps sur l'occupant. Des soldats allemands, par petits groupes, se replient sur la route de Rungis. Ils traînent derrière eux de petits canons anti-chars.",
+            "16h00, la ligne des blindés français se renforce malgré les efforts désespérés que leur opposent les automitrailleuses, les cyclistes et les tirailleurs allemands soutenus par le tir du canon des Hautes Bruyères. Les projectiles survolent Chevilly; ils passent en sifflant pour s'écraser près du Séminaire. On se bat durement près de la prison de Fresnes et sur l'avenue Jean Mermoz. Les Allemands qui reviennent de la ligne de feu sont \"sans feu\"; ils paraissent à bout de forces et de courage. Une escouade vient se constituer prisonnière à la mairie et dépose les armes.",
+            "L'Ecole départementale de Vitry sur Seine, ancien orphelinat devenu lycée professionnel au nord de Chevilly-Larue sur la RN 7, avait été réquisitionnée par les troupes d'occupation; à la libération on y découvrira, sommairement enterrés, les cadavres de huit soldats des FFI capturés le 21 août lors de la contre-attaque allemande sur la Mairie de Vitry : Paul Armangot, 36 ans, Robert Coucharrière, 17 ans, et son frère Marcel, 22 ans, Marcel Fievet et ses deux fils Marcel-Aimé, 17 ans, et Jacques 16 ans, Robert Poirier, 26 ans et son frère Roger, 22 ans."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "La redoute des Hautes Bruyères, fortification construite en 1870 pour renforcer la ceinture de forts dans le Sud de Paris, se trouve sur le territoire de la commune de Villejuif."
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Vers les 19h00, les Allemands tirent avec un canon anti-chars et font sauter un dépôt de munitions dans l'Ecole départementale. Trois éclats d'obus tombent sur la toiture du Séminaire. Une balle de petit calibre traverse le carreau d'une fenêtre et va se loger dans la porte. Dieu merci ! Il n'y a ni mort, ni blessé. En retraite et en rage, ils traversent et retraversent les rues du village et se livrent à une véritable chasse à l'homme. Avec leurs mitrailleuses à quatre tubes et leurs canons anti-chars, ils tirent sur tout et tous. Cette folle rage va durer près de deux heures. Heureusement qu'il y a des caves pour s'abriter !",
+            "La nuit, une batterie allemande installée dans la direction du fort des Hautes Bruyères tire sur les blindés français placés sur la route de Fontainebleau; une autre stationnée vers Fresnes tire dans la même direction. La réponse des blindés français de la route de Fontainebleau ne se fait pas attendre.",
+            "Vers 23h00, l'artillerie française attaque le fort des Hautes Bruyères qui riposte. Les obus volent en ronculant au dessus des toits. Cette nuit de la Saint Barthélemy passée dans les caves devient pour Chevilly une nuit historique."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Vendredi 25 août",
+          "content": [
+            "De grand matin le bruit du canon et des mitrailleuses sonne un triste réveil. Au carrefour des Sorbiers gisent trois morts. Le maire fait appel aux séminaristes qui font partie de la Croix-Rouge pour les ramasser. Ils trouvent un soldat français en uniforme; il porte la croix de Lorraine sur le casque. Il y a également un civil. Le troisième est un soldat allemand qui avait été caché dans un trou par peur des représailles.",
+            "Pendant que les secouristes s'occupent des morts, des gens indignés et horrifiés annoncent qu'un Père Mazurié, couché sur le dos, à l'angle du carrefour à l'endroit précis de l'arrêt de l'autobus. Le crâne était fracassé, les balles tirées dans la figure étant ressorties par le haut; le bras et la main droite sont couverts de sang; le bas de la soutane est déchiré. A côté de lui gisait un garçon de 17 ans, Jacques Hellouin."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "right",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/jacques_hellouin.png",
+            "alt": "Jacques Hellouin"
+          },
+          "content": [
+            "Jacques Hellouin, jeune FFI de 17 ans, est tombé au carrefour des Sorbiers lors des dernières heures de combat. Son sacrifice, aux côtés du Père Mazurié, illustre le prix de la liberté payé par les habitants de Chevilly-Larue."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Toute la journée les troupes américaines passent sur la route de Fontainebleau en direction de Paris. Sur la route Jean Mermoz, c'est l'armée du général Leclerc qui va faire son entrée dans Paris. La foule est là. Elle acclame les libérateurs. Dans les clochers, les cloches chantent joyeusement la victoire."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/les-americains-arrivent.jpg",
+            "alt": "Les Américains arrivent"
+          },
+          "content": [
+            "L'arrivée des troupes alliées marque la fin de quatre années d'occupation. La population de Chevilly-Larue, après avoir vécu les heures les plus sombres, peut enfin célébrer sa libération."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Au moment où tous les blindés défilent sur le territoire de la commune, le curé chasse à coups de pied les jeunes qui veulent sonner les cloches de l'église. Il ne veut pas entendre parler de la victoire des Alliés; c'est un germanophile cent pour cent.",
+            "Marc Ellenberger, dont le résultat des recherches est exposé plus loin, a recueilli auprès d'un ancien FFI de Chevilly-Larue le témoignage suivant : \"Si les cloches n'ont pas sonné c'est parce que le curé n'en avait pas reçu l'ordre de sa hiérarchie et qu'il était du genre timoré; il avait sans doute peur des représailles. Devant son refus énergique, il a été traité de 'collabo' par dépit. Cela ne veut pas vraiment dire qu'il était un collaborateur\".",
+            "Vers les 14h00 toute résistance allemande semble avoir cessé. Le bruit du canon s'est tu. Les drapeaux français et alliés sont accrochés aux fenêtres des maisons; le Séminaire, à cause de la mort du Père Mazurié, ne sortira les siens que dans la soirée; le presbytère, malheureusement, ne pavoisera pas...",
+            "Le soir, sur la place de l'église, une \"cérémonie\" d'un genre nouveau réunit une bonne partie de la population. Il s'agit de flétrir publiquement des femmes et des jeunes filles qui se sont mises au service des Allemands. Afin de les désigner au mépris du public, on les tond et on les rase complètement. Il y a des pleurs et des grincements de dents, des tentatives de résistance, mais finalement il faut y passer. On en compte une dizaine et, comme cela arrive souvent, les principales parviennent à s'échapper.",
+            "La nuit vient terminer cette journée inoubliable : la journée de la délivrance. La bataille de Chevilly est finie."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Détails sur la mort du Père Mazurié et de Jacques Hellouin"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Le Père Mazurié décide de se rendre à Thiais pour présider un salut du Saint-Sacrement chez les Soeurs de Saint-Joseph... Son biographe remarque qu'une plus juste appréciation de la situation lui aurait fait comprendre l'inutilité de ce déplacement au plus fort de la bataille... Le Père Mazurié part..."
+          ]
+        },
+        {
+          "type": "note",
+          "content": "Il s'agissait d'assurer une célébration qu'on appelait le \"salut\" (du saint Sacrement) avec exposition de l'hostie consacrée, prières et chants... Les Religieuses avaient un certain nombre de ces \"saluts\" prévus par leur règlement et le Père se croyait sans doute obligé d'assurer ce service car, à l'époque, les Soeurs n'avaient pas le droit de toucher aux hosties."
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "<strong>Jacques Hellouin</strong>, né le 18 mars 1927 à Paris, est le fils d'un bijoutier installé 50, rue des Archives (4ème). FFI membre du groupe Eleuther, il a été envoyé en mission de reconnaissance sur la RN 7 pour repérer les positions allemandes au sud de Paris. Interpellé par une patrouille allemande, il est abattu sur place."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/avis-deces-hellouin.jpg",
+            "alt": "Avis de décès de Jacques Hellouin"
+          },
+          "content": [
+            "Le père de Jacques fera paraître cet avis de décès dans <em>Le Parisien Libéré</em> du 2 septembre 1944. Ce document témoigne de la douleur d'une famille frappée par le sacrifice de son fils, tombé pour la liberté de la France à seulement 17 ans."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Instants plus tard il voit arriver un ecclésiastique, lui aussi à bicyclette, venant de Chevilly. Les mêmes soldats l'interpellent. Un gradé le tire à bout portant. Le Père tombe. Les soldats le traînent sur le bord du champ.",
+            "L'autre version, racontée dès le lendemain par la population de Chevilly, indique que le Père Mazurié arrive au carrefour alors que les Allemands malmènent le jeune Jacques Hellouin. Il tente d'intervenir en sa faveur, ce qui provoque la colère des soldats."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "La cérémonie d'enterrement aura lieu à la Communauté. Les FFI, ayant d'abord accompagné les autres victimes au cimetière communal, viendront escorter le cercueil du Père Mazurié et rendre les honneurs. Une salve de mousquetons saluera la dépouille mortelle."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Pour Auguste Brault, son biographe, Laurent Mazurié, s'il avait vécu, n'aurait sans doute pas pris la tête d'entreprises hardies, n'aurait bouleversé ni les personnes ni les évènements... Ce n'était pas sa vocation. Il aurait apporté la goutte d'huile qui adoucit les frictions."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "right",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/dericbourg-petit-leroy-mazurie-hellouin.jpg",
+            "alt": "Plaque commémorative"
+          },
+          "content": [
+            "Une plaque commémorative rend hommage aux victimes de la Libération de Chevilly-Larue : l'adjudant-chef Dericbourg, le lieutenant Petit-le-Roy, le Père Mazurié et Jacques Hellouin. Leur sacrifice restera gravé dans la mémoire collective de la ville."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "HOMMAGE",
+      "title": "Marcel Jolivet (1924 – 1944)",
+      "subtitle": "Jeune patriote chevillais, résistant et parachutiste mort pour la France",
+      "sections": [
+        {
+          "type": "identity-list",
+          "title": "Identité",
+          "items": [
+            "<strong>Naissance :</strong> 1er avril 1924 à Chevilly (aujourd'hui Chevilly-Larue, Val-de-Marne)",
+            "<strong>Décès :</strong> 14 décembre 1944 à Friesenheim / Neunkirch (Bas-Rhin, Alsace)",
+            "<strong>Parents :</strong> Raymond Jolivet et Marie-Louise Lavigne",
+            "<strong>Profession :</strong> Ouvrier verrier à la SCAD (Société de construction d'appareils Dunoyer, Paris 15ᵉ)",
+            "<strong>Unité :</strong> 1er Régiment de chasseurs parachutistes (1er RCP)",
+            "<strong>Distinction :</strong> Mort pour la France"
+          ]
+        },
+        {
+          "type": "article-section",
+          "title": "Texte intégral de l'article de Marc Ellenberger (Archives municipales de Chevilly-Larue)",
+          "subtitle": "Marcel Jolivet (1924-1944), un jeune patriote engagé",
+          "content": [
+            "Marcel Jolivet, fils aîné d'une vieille famille chevillaise, s'est engagé dans la Résistance dès 1942 à l'âge de 18 ans, puis dans l'armée. Il est tué au combat en Alsace le 14 décembre 1944.",
+            "Marcel Jolivet naît le 1ᵉʳ avril 1924 à Chevilly, dans la vieille demeure familiale située au début de la rue Henri Croffé. Sa mère, Marie-Louise Lavigne, fille d'un cultivateur, y est née en 1899 ; le 25 juin 1923, elle a épousé à Chevilly-Larue Raymond Jolivet, un chauffeur originaire du Cher. La famille Jolivet occupe la moitié de la maison et s'agrandit avec la naissance de Marcel et Henri, respectivement en 1924 et 1926. Entre 1926 et 1939 de dix autres enfants, dont Raymond en 1939. Marcel entre à l'école de Chevilly à l'âge de 6 ans, obtient son certificat d'études le 12 juillet, à l'âge de 14 ans. Il s'agit de la dernière promotion à bénéficier de la signature du maire « Cœur vaillant » (épithète du pionnier du développement de Chevilly) qui, après 14 ans de mandat, quitte Chevilly lors de sa fondation le 5 juillet 1938.",
+            "Le salaire de livreur de son père suffit à peine pour une famille nombreuse, Marcel Jolivet travaille dès sa sortie de l'école. Il est embauché par la SCAD (Société de construction des appareils Dunoyer), qui fabrique notamment des appareils de laboratoire à Paris 15ᵉ. Il y fait bientôt entrer un ami chevillais, Henri Lieblich. Ils y vont en vélo et y travaillent comme souffleurs de verre pour la fabrication des bocaux et des flacons. Au début de la guerre, ils suivent l'entreprise qui est transférée à Honfleur dans le Calvados. L'avance de l'offensive allemande au début juin 1940 fait encore déménager la SCAD. En plein exode, Marcel et Henri sont chargés d'accompagner le transfert du matériel vers le sud, d'abord en camions, puis en train. Leur convoi est détourné sur Rennes, où il arrive le 17 juin et subit un bombardement aérien. Une bombe tombe sur le wagon où se trouvent Marcel et Henri. Ce dernier est grièvement blessé. Marcel, qui n'a que ses chaussures arrachées des pieds et des brûlures, lui fait un garrot et va chercher du secours. Henri est hospitalisé et reviendra plus tard du début de la guerre avec une jambe plus courte et de nombreuses cicatrices. Après l'entrée des troupes allemandes à Rennes le 18 juin, Marcel revient à Chevilly-Larue en marchant pieds nus. La SCAD réintègre bientôt ses locaux parisiens ; Marcel y reprend son travail, mais sa conscience le fait la quitter quand l'entreprise est obligée par l'occupant de fabriquer des périscopes de sous-marins. Il travaille ensuite à l'usine Rhône-Poulenc de Vitry-sur-Seine.",
+            "Marcel Jolivet s'engage en octobre 1942 dans un réseau gaulliste de Résistance dirigé localement par Paul Hochart. Il colle des affiches et distribue des tracts dans les boîtes aux lettres des Chevillais. Dans la nuit du 24 au 25 mars 1943, tous près de lui écrivent des slogans hostiles à l'ennemi et au cantonnement allemand au Séminaire, ce qui leur vaut d'être dénoncés. Par chance, un sergent parachuté allemand arrivé les prévoit à condition qu'ils effacent leurs inscriptions. Le 14 juillet, il plante le drapeau tricolore au sommet des cheminées de deux briqueteries proches. Le 20 août, un ami le voit sortir du cantonnement allemand du Séminaire Saint-Michel. Marcel sert d'agent de liaison avec Paris jusqu'à la Libération le 24 août. Ses fiançailles avec une jeune Chevillaise ont lieu après, mais ne l'empêchent pas de s'engager dans l'armée le 4 octobre 1944, avec son ami Raymond Bruin et son cousin André Lavigne. Le 14 novembre, ils rejoignent le 1er régiment de chasseurs parachutistes qui monte en Alsace. Marcel n'a alors que 20 ans. Il est tué à Neunkirch le 14 décembre 1944 et Raymond le 27 janvier 1945 à Jebsheim. Les Jolivet n'apprennent le décès de Marcel que le 3 août. Ses obsèques ont lieu le 30 octobre 1945, après l'exhumation de son corps du cimetière militaire de Bergheim. Le Conseil municipal de Chevilly-Larue lui a accordé en 1946 une concession perpétuelle au cimetière communal et la Municipalité de Guy Pettenati a donné son nom à une rue de la ville dont l'inauguration a eu lieu le 30 janvier 1949, l'inauguration ayant été reportée de quelques semaines à cause du mauvais temps. Une plaque en mémoire de Marcel Jolivet et de Raymond Bruin est posée au cimetière le 8 mai 2004 lors d'une cérémonie. La ville n'oublie pas ses héros « Morts pour la France »."
+          ],
+          "author": "Marc Ellenberger, archiviste municipal"
+        },
+        {
+          "type": "section-with-title",
+          "title": "Compléments historiques",
+          "content": [
+            "Les recherches croisées avec la base Mémoire des Hommes confirment :"
+          ],
+          "list": [
+            "le lieu exact de sa mort (secteur Friesenheim / Neunkirch, Bas-Rhin),",
+            "son appartenance au 1er RCP, engagé dans la campagne d'Alsace (décembre 1944),",
+            "et la présence de son nom sur les monuments commémoratifs de Chevilly-Larue et du 1er RCP (Pamiers, Ariège)."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Mémoire",
+          "list": [
+            "Rue Marcel-Jolivet, Chevilly-Larue (nommée en 1946)",
+            "Tombe n° 47, cimetière communal",
+            "Plaques commémoratives (1949 / 2004)",
+            "Cité dans les cérémonies du 8 mai et du 11 novembre",
+            "Mention « Mort pour la France »"
+          ]
+        },
+        {
+          "type": "centered-portrait",
+          "image": {
+            "src": "images/marcel-jolivet.jpg",
+            "alt": "Photo de Marcel Jolivet",
+            "caption": "Marcel Jolivet (1924-1944)",
+            "aspectRatio": "9/16"
+          }
+        }
+      ]
+    },
+    {
+      "date": "SOUVENIRS D'ENFANCE",
+      "title": "Dessins et Lettres au Père Noël",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Ces précieux documents nous plongent dans l'imaginaire de l'enfance de mon père. Ses dessins, empreints de la spontanéité et de la créativité des jeunes années, côtoient ses lettres au Père Noël, témoins des rêves et des espoirs d'un enfant en des temps parfois difficiles. Ils offrent un aperçu touchant de son monde intérieur."
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 4,
+          "images": [
+            {
+              "src": "images/dessin1.jpg",
+              "alt": "Dessin d'enfant 1",
+              "caption": "Un des premiers dessins de mon père."
+            },
+            {
+              "src": "images/dessin2.jpg",
+              "alt": "Dessin d'enfant 2",
+              "caption": "Un autre aperçu de sa créativité enfantine."
+            },
+            {
+              "src": "images/lettre-noel1.jpg",
+              "alt": "Lettre au Père Noël 1",
+              "caption": "Première lettre au Père Noël."
+            },
+            {
+              "src": "images/lettre-noel2.jpg",
+              "alt": "Lettre au Père Noël 2",
+              "caption": "Deuxième lettre au Père Noël."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "XXᵉ SIÈCLE",
+      "title": "Le XXᵉ siècle à Chevilly-Larue",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "En 1906, deux briqueteries, Lafontaine et Bohy, s'installent dans l'ouest de la commune ; leur activité durera respectivement jusqu'en 1935 et 1966. La même année, les sœurs de « Notre-Dame-de-Charité », couvent fondé en 1641 et hébergeant des jeunes filles en difficulté, construisent à Chevilly le monastère Saint-Michel et s'y installent en 1907. Ce bâtiment regroupe actuellement une communauté religieuse, une maison de retraite ainsi qu'un centre d'observation et de rééducation.",
+            "Par décret du 5 septembre 1920, Chevilly devient Chevilly-Larue, pour éviter les confusions avec Chevilly (Loiret), confusions qui durent toujours puisque le lieu de décès de la princesse Louise de Rohan-Guémené le 20 août 1780 est disputé entre les deux Chevilly.",
+            "Le 24 août 1944, des combats ont lieu à la Libération. Les rues de la ville portent le nom de ceux tombés à Chevilly pendant la libération : le jeune FFI Jacques Hellouin âgé de 17 ans et le père spiritain Laurent Mazurie, croix de guerre française, qui sont exécutés ensemble par une patrouille allemande. Le lieutenant FFI Jacques Petit-le-Roy et l'adjudant-chef Augustin Dericbourg, porteurs d'un pli urgent pour le général Leclerc, en se dirigeant vers Paris à bord d'une jeep, s'arrêtent dans les rues de Chevilly et sont tués dans un échange de tirs d'embuscade allemande ; un soldat allemand est abattu.",
+            "Des centaines de pavillons, des dizaines de tours et de barres d'immeubles d'habitation, jadis qualifiées de « villes-dortoirs » ou de « clapiers à lapins », sont construits de 1954 à 1962 à la place des champs, des fermes et des pépinières : des bus ( RATP 131) les relient à Paris, principal pourvoyeur d'emplois jusqu'à l'ouverture en 1969 du Marché d'intérêt national de Rungis. Petit à petit, s'y adjoignent des équipements sportifs et culturels. L'afflux d'affaires, doublé de la proportion de résidents en villa et la disparition de la population ouvrière, fait basculer la mairie à gauche en 1977.",
+            "En 1982, une borne paroissiale blanche, avec une ancienne inscription gravée dans la pierre, est découverte sur le chantier de construction de la piscine « Pierre de Coubertin », sur le terrain du parc départemental actuel, qui appartenait auparavant à la ferme du séminaire et qui fut vendu par les spiritains au Département en 1981 pour devenir une base de loisirs. Guy Pettenati, alors maire, fit exposer cette stèle dans le hall de la mairie dans un premier temps, avant qu'elle ne soit entreposée.",
+            "En 1992, le toit de l'église Sainte-Colombe est refait.",
+            "Il est prévu que Chevilly-Larue soit desservie par la station Trois Communes du métro (ligne 14) dans le cadre du projet « Grand Paris Express »."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Les rues de la Mémoire"
+        },
+        {
+          "type": "section-with-title",
+          "title": "France libre",
+          "list": [
+            "<strong>Rue de l'Adjudant-chef-Dericbourg (ex-rue de Lallier) :</strong> Augustin Dericbourg, sous-officier de la 2ᵉ Division blindée (Division Leclerc), tué à Chevilly-Larue le 24 août 1944 (jour de la Libération) à l'intersection de la rue portant son nom avec la route départementale 60 (actuelle RD 160), en même temps que Jacques Petit-le-Roy (ci-dessous) – 11 octobre 1944."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Résistance intérieure",
+          "list": [
+            "<strong>Rue (du lieutenant) Petit-le-Roy (ex-rue d'Orly) :</strong> Jacques Petit-le-Roy, lieutenant FFI, émissaire de l'état-major de la résistance parisienne (de Chaban-Delmas) envoyé auprès du général Leclerc alors à Antony, tué le 24 août 1944, lors de son trajet de retour à Paris, à Chevilly-Larue, à l'intersection de la rue portant son nom avec la route départementale 60 (actuelle RD 160), en même temps que l'adjudant-chef Augustin Dericbourg (ci-dessus), qui le raccompagnait en véhicule militaire à Paris – 11 octobre 1944.",
+            "<strong>Rue Margueriteau (ex-sentier La Guinet, puis nouveau tracé) :</strong> Georges Margueriteau, résistant du même groupe que François Sautet, son chef (ci-dessous), fusillé le 11 août 1942 au Mont-Valérien à Suresnes – 11 octobre 1944, puis 28 juin 1991 (nouveau tracé).",
+            "<strong>Rue François-Sautet (½ ex-avenue du Cottage et ½ ex-avenue de la Mutualité) :</strong> François Sautet, résistant de Chevilly-Larue et de Villejuif, chef d'un petit groupe dont faisait partie Georges Margueriteau (ci-dessus), fusillé le 11 août 1942 au Mont-Valérien à Suresnes – 11 octobre 1944.",
+            "<strong>Rue Jacques-Hellouin (ex-avenue de la Prospérité) :</strong> Jacques Hellouin, résistant parisien venu en reconnaissance sur la RN 7 (actuelle RD 7), tué à Chevilly-Larue le 24 août 1944 (le jour de la Libération) – 22 décembre 1944.",
+            "<strong>Rue Marcel-Jolivet (voie nouvelle) :</strong> Marcel Jolivet, résistant chevillais engagé après la Libération dans le 1er Régiment de chasseurs parachutistes, tué au combat en Alsace à Neunkirch (67) le 14 décembre 1944 – 30 janvier 1989."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Analyse de la politique mémorielle"
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "L'enjeu du choix de la localisation d'une rue commémorant par son nom la Résistance n'est pas anodin. On honore plus ou moins la personne choisie selon que la voie est une avenue, une rue, ou une impasse, ou selon que cette voie occupe une position centrale ou non dans la ville. Le choix porte aussi sur le pan de mémoire locale qu'on est obligé de faire disparaître pour pouvoir attribuer le nom d'un résistant. Il arrive que les conseillers municipaux débattent de la pertinence du choix de la voie. On distingue une répartition par saupoudrage (quelques rues isolées), par quadrillage (tout l'espace de la ville est marqué) ou encore, par quartier.",
+            "Dans le cas de Chevilly-Larue (dans l'actuel département du Val-de-Marne), la municipalité gaulliste a choisi de regrouper après-guerre, dans un même quartier autour de la Place de la Libération et en bordure de l'avenue du Général-de-Gaulle, les rues portant le nom de membres des Forces françaises de l'intérieur (FFI) tombés à Chevilly-Larue dans les combats de la Libération (lieutenant Petit-le-Roy, Jacques Hellouin) ou d'habitants de la ville fusillés pour faits de résistance (François Sautet).",
+            "Cette politique mémorielle est poursuivie avec constance par les municipalités communistes (à partir de 1977). Toujours dans le même quartier, des rues prennent le nom de grandes figures de la Résistance (Pierre Brossolette, général Leclerc), de combats emblématiques (Bir Hakeim) ou encore de figures locales (Marcel Jolivet)."
+          ]
+        }
+      ]
+    }
+  ]
+}
