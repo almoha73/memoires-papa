@@ -334,6 +334,29 @@
               ]
             }
           ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "La plaque commémorative du Pont de Tolbiac",
+          "content": [
+            "Une plaque commémorative a été installée sur le Pont de Tolbiac à Paris (13e) en hommage aux aviateurs français du Groupe de Bombardement \"Lorraine\" qui ont sacrifié leur vie pour épargner la population parisienne."
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 4,
+          "images": [
+            {
+              "src": "images/musee-resistance-5033-recto.jpg",
+              "alt": "Plaque commémorative Pont de Tolbiac",
+              "caption": "Plaque : \"À la mémoire des aviateurs français qui choisirent ici dans les eaux du fleuve une mort certaine pour épargner Paris\""
+            },
+            {
+              "src": "images/musee-resistance-5033-verso.jpg",
+              "alt": "Détail plaque Pont de Tolbiac",
+              "caption": "Détail : Lieutenant pilote Lamy, Adjudant Balcaen, Sergent Roussarie, Sergent Jouniaux - Groupe de Bombardement F.A.F.L. \"Lorraine\""
+            }
+          ]
         }
       ]
     },
@@ -609,6 +632,29 @@
           "content": [
             "Les obsèques de Dericbourg et Petit le Roy seront photographiées par Roger Parry le 28 août. Une première plaque est fleurie à l'endroit où sont tombés Dericbourg et Petit-le-Roy. Le curé Alphonse Rousseau célèbre la cérémonie funèbre. La population de Chevilly-Larue les accompagne jusqu'au cimetière communal où les FFI rendent les honneurs. Un monument commémoratif se trouve dans le cimetière.",
             "La cérémonie d'enterrement du Père Mazurié aura lieu à la Communauté. Les FFI, ayant d'abord accompagné les autres victimes au cimetière communal, viendront escorter le cercueil du Père Mazurié et rendre les honneurs. Une salve de mousquetons saluera la dépouille mortelle."
+          ]
+        },
+        {
+          "type": "section-with-title",
+          "title": "Le monument commémoratif au cimetière de Chevilly-Larue",
+          "content": [
+            "Une croix commémorative a été érigée au cimetière communal de Chevilly-Larue en mémoire du lieutenant Jacques Petit le Roy et de l'adjudant-chef Dericbourg, morts le 24 août 1944 au retour d'une mission auprès de la Division Leclerc pour la délivrance de Paris."
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 4,
+          "images": [
+            {
+              "src": "images/musee-resistance-8227-recto.jpg",
+              "alt": "Monument Dericbourg et Petit le Roy",
+              "caption": "Croix commémorative au cimetière de Chevilly-Larue"
+            },
+            {
+              "src": "images/musee-resistance-8227-verso.jpg",
+              "alt": "Inscription monument Dericbourg et Petit le Roy",
+              "caption": "Inscription : \"Ici sont glorieusement tombés le 24 août 1944 le Lieutenant des FFI Jacques Petit le Roy, de retour d'une mission auprès de la Division Leclerc et l'Adjudant-Chef Dericbourg de la Division Leclerc de la Mission de la Délivrance de Paris\""
+            }
           ]
         },
         {
