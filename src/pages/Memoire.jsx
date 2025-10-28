@@ -61,6 +61,19 @@ export default function Memoire() {
     return () => document.removeEventListener('click', handleImageClick);
   }, []);
 
+  // Manage body overflow based on modal state
+  useEffect(() => {
+    if (modalOpen) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+
+    return () => {
+      document.body.style.overflow = 'unset';
+    };
+  }, [modalOpen]);
+
   if (loading) {
     return <div className="container mx-auto max-w-7xl px-4 py-12 text-center">Chargement...</div>;
   }

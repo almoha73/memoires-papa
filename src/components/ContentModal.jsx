@@ -11,12 +11,10 @@ export default function ContentModal({ isOpen, onClose, children }) {
 
     if (isOpen) {
       document.addEventListener('keydown', handleEscape);
-      document.body.style.overflow = 'hidden';
     }
 
     return () => {
       document.removeEventListener('keydown', handleEscape);
-      document.body.style.overflow = 'unset';
     };
   }, [isOpen, onClose]);
 
@@ -25,11 +23,17 @@ export default function ContentModal({ isOpen, onClose, children }) {
   return (
     <div
       className="fixed inset-0 bg-black/80 flex items-center justify-center z-50 p-4"
-      onClick={onClose}
+      onClick={(e) => {
+        // Ne fermer que si on clique directement sur le backdrop (pas sur une image lightbox)
+        if (e.target === e.currentTarget && !e.target.classList.contains('lightbox-trigger')) {
+          onClose();
+        }
+      }}
     >
       <div
         className="relative bg-white rounded-lg shadow-xl max-w-3xl w-full max-h-[90vh] overflow-y-auto p-6 lg:p-8"
         onClick={(e) => {
+          // Ne pas stopper la propagation si c'est une image lightbox
           if (!e.target.classList.contains('lightbox-trigger')) {
             e.stopPropagation();
           }

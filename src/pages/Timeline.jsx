@@ -71,6 +71,19 @@ export default function Timeline() {
     return () => document.removeEventListener('click', handleImageClick);
   }, []);
 
+  // Manage body overflow based on modal state
+  useEffect(() => {
+    if (selectedEvent || imageModalSrc) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = 'unset';
+    }
+
+    return () => {
+      document.body.style.overflow = 'unset';
+    };
+  }, [selectedEvent, imageModalSrc]);
+
 
   if (loading) {
     return <div className="container mx-auto max-w-7xl px-4 py-12 text-center">Chargement...</div>;
