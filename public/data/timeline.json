@@ -702,6 +702,22 @@
           ]
         },
         {
+          "type": "image-grid",
+          "columns": 4,
+          "images": [
+            {
+              "src": "images/canope-2530.jpg",
+              "alt": "Carte de Chevilly-Larue avec annotations",
+              "caption": "Plan de Chevilly-Larue annoté par Marc Ellenberger montrant l'itinéraire de la jeep et les lieux clés"
+            },
+            {
+              "src": "images/musee-7697.jpg",
+              "alt": "Plaque de rue Lieutenant Jacques Petit Le Roy",
+              "caption": "Rue du lieutenant Jacques Petit Le Roy (1916-1944), résistant parisien abattu à Chevilly-Larue le 24 août 1944"
+            }
+          ]
+        },
+        {
           "type": "image-text-layout",
           "imagePosition": "right",
           "imageWidth": "1/2",
@@ -711,6 +727,26 @@
           },
           "content": [
             "Une plaque commémorative rend hommage aux victimes de la Libération de Chevilly-Larue : l'adjudant-chef Dericbourg, le lieutenant Petit-le-Roy, le Père Mazurié et Jacques Hellouin. Leur sacrifice restera gravé dans la mémoire collective de la ville."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "AOÛT 1944",
+      "title": "Souvenirs de la Libération : La cave des Ganivet",
+      "quote": "Paris se libère ! Enfin !",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Maman était toujours inquiète lorsque les événements dépassaient l'ordinaire. On peut la comprendre et à cette époque-là, Dieu sait (foi d'athée), combien ils se succédaient avec frénésie. Paris se libère ! Enfin !",
+            "Nous nous étions réfugiés, tous les quatre, dans le sous-sol d'une maison voisine, chez les Ganivet. La dame était sourde et lisait sur les lèvres, et le monsieur avait ce tic : il faisait « couiner » ses dents (son dentier ?) en faisant entendre le grincement. Des gens très gentils, évidemment compréhensifs.",
+            "Il y avait aussi les Lefort, un couple de voisins avec leurs deux grandes filles dont Éliane. Le prénom de l'autre sœur ne me revient pas. Un petit sous-sol, pas plus grand que chez nous mais cimenté et aménagé. Les souvenirs matériels sont succincts. Y avons-nous dormi ? Peut-être, et comment ? Aucune idée.",
+            "Je me souviens de deux ou trois choses importantes. Le sous-sol était à moitié enterré et était éclairé par de petites fenêtres. L'une d'elles nous permettait de voir le jardin « au ras des pâquerettes » et l'on voyait le portail qui donnait sur la rue, un portail plein en bas et dont la partie supérieure était à claire-voie.",
+            "Je revois, 75 ans après, ce soldat allemand à bicyclette, qui s'enfuyait vers Paris. Il appuyait fermement sur les pédales. Et en pédalant, il a jeté un « regard furtif » vers la maison. Nous a-t-il vus ? La lumière était-elle allumée ? Mais il avait d'autres chats à fouetter. La peur avait changé de camp. Enfin, peut-être pas chez maman, pas encore.",
+            "Je revois parfaitement le couvre-chef de ce pauvre homme. J'espère qu'il a pu rejoindre les siens et... qu'il a pu passer une partie de son temps à se mordre les doigts.",
+            "Je me souviens d'Éliane et pour cause. Je me revois assis sur ses genoux et l'étreindre : j'étais amoureux d'elle et le lui faisais savoir. Je lui disais que je l'aimais, que je voulais me marier avec elle et que pour ce faire, il fallait qu'elle m'attende, que je grandisse.",
+            "Par ailleurs, je me souviens de quelque chose, on ne peut plus terre à terre après ce que je viens de vous confier : des nouilles à la sauce tomate !!! Abominable, je n'aimais rien. Nous avions si peu de nourriture ! Et ces espèces de trucs que je découvrais (?) Beurk ! C'est peut-être pour ça qu'aujourd'hui je les préfère cuisinées, bolognaises, lasagnes, et que les pâtes très ordinaires, je les qualifie de « nouilles » péjorativement."
           ]
         }
       ]
