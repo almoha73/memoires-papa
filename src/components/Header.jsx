@@ -5,7 +5,7 @@ export default function Header() {
     <header className="bg-white/80 backdrop-blur-md shadow-md sticky top-0 z-50">
       <div className="container mx-auto max-w-7xl px-4">
         <div className="flex justify-between items-center h-16">
-          <h1 className="text-xl font-bold text-color-1">L'histoire d'une vie</h1>
+          <h1 className="text-xl font-bold text-color-1">L&apos;histoire d&apos;une vie</h1>
           <nav>
             <ul className="flex space-x-8">
               <li>

@@ -1,5 +1,5 @@
-/* eslint-disable react/prop-types */
 import { useEffect } from 'react';
+import OptimizedImage from '@/components/OptimizedImage';
 
 export default function ImageModal({ isOpen, imageSrc, onClose }) {
   useEffect(() => {
@@ -40,10 +40,12 @@ export default function ImageModal({ isOpen, imageSrc, onClose }) {
         >
           &times;
         </button>
-        <img
+        <OptimizedImage
           src={imageSrc}
           alt="Image agrandie"
-          className="max-w-full max-h-full object-contain"
+          isLightbox={false}
+          className="max-w-full max-h-full"
+          style={{ background: 'transparent' }}
           onClick={(e) => e.stopPropagation()}
         />
       </div>

@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { Link } from 'react-router-dom';
 import SectionRenderer from './SectionRenderer';
 
@@ -14,7 +13,7 @@ export default function EventCard({ event, index, isInsideModal = false }) {
         </h2>
         {!isInsideModal && (
           <Link
-            to={`/timeline#card-${index}`}
+            to={`/timeline#timeline-event-${index}`}
             className="text-sm text-color-3 hover:text-color-1 font-semibold mb-4 inline-block"
           >
             Retour à la chronologie
@@ -28,7 +27,7 @@ export default function EventCard({ event, index, isInsideModal = false }) {
         {event.quote && (
           <blockquote className="bg-color-5/30 border-l-4 border-color-3 p-4 mb-6">
             <p className="text-xl font-serif-handwritten text-color-1/80 leading-relaxed">
-              "{event.quote}"
+              &quot;{event.quote}&quot;
             </p>
           </blockquote>
         )}

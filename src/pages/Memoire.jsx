@@ -1,27 +1,14 @@
 import { useState, useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
-import EventCard from '../components/EventCard';
-import ImageModal from '../components/ImageModal';
+import EventCard from '@/components/EventCard';
+import ImageModal from '@/components/ImageModal';
+import { useTimelineData } from '@/hooks/useTimeline';
 
 export default function Memoire() {
-  const [data, setData] = useState(null);
-  const [loading, setLoading] = useState(true);
+  const { data, loading, error } = useTimelineData();
   const [modalOpen, setModalOpen] = useState(false);
   const [modalImage, setModalImage] = useState('');
   const location = useLocation();
-
-  useEffect(() => {
-    fetch('/data/timeline.json')
-      .then(res => res.json())
-      .then(data => {
-        setData(data);
-        setLoading(false);
-      })
-      .catch(error => {
-        console.error('Error loading memoire data:', error);
-        setLoading(false);
-      });
-  }, []);
 
   // Scroll to anchor after data is loaded and images are loaded
   useEffect(() => {
@@ -30,14 +17,14 @@ export default function Memoire() {
 
       // Wait for all images to load
       const images = Array.from(document.images);
-      Promise.all(
-        images.map(img => {
-          if (img.complete) return Promise.resolve();
-          return new Promise(resolve => {
-            img.onload = img.onerror = resolve;
-          });
-        })
-      ).then(() => {
+      const imagePromises = images.map(img => {
+        if (img.complete) return Promise.resolve();
+        return new Promise(resolve => {
+          img.onload = img.onerror = resolve;
+        });
+      });
+
+      Promise.all(imagePromises).then(() => {
         setTimeout(() => {
           const targetElement = document.querySelector(hash);
           if (targetElement) {
@@ -63,22 +50,15 @@ export default function Memoire() {
 
   // Manage body overflow based on modal state
   useEffect(() => {
-    if (modalOpen) {
-      document.body.style.overflow = 'hidden';
-    } else {
-      document.body.style.overflow = 'unset';
-    }
-
-    return () => {
-      document.body.style.overflow = 'unset';
-    };
+    document.body.style.overflow = modalOpen ? 'hidden' : 'unset';
+    return () => { document.body.style.overflow = 'unset'; };
   }, [modalOpen]);
 
   if (loading) {
     return <div className="container mx-auto max-w-7xl px-4 py-12 text-center">Chargement...</div>;
   }
 
-  if (!data) {
+  if (error || !data) {
     return <div className="container mx-auto max-w-7xl px-4 py-12 text-center">Erreur de chargement des données</div>;
   }
 

@@ -1,28 +1,15 @@
-import { useState, useEffect } from 'react';
-import ContentModal from '../components/ContentModal';
-import EventCard from '../components/EventCard';
-import ImageModal from '../components/ImageModal';
+import { useState, useEffect, useCallback } from 'react';
+import ContentModal from '@/components/ContentModal';
+import EventCard from '@/components/EventCard';
+import ImageModal from '@/components/ImageModal';
+import { useTimelineData } from '@/hooks/useTimeline';
 
 const LAST_EVENT_ID_KEY = 'lastTimelineEventId';
 
 export default function Timeline() {
-  const [data, setData] = useState(null);
-  const [loading, setLoading] = useState(true);
+  const { data, loading, error } = useTimelineData();
   const [selectedEvent, setSelectedEvent] = useState(null); // For Event details modal
   const [imageModalSrc, setImageModalSrc] = useState(null); // For Image lightbox modal
-
-  useEffect(() => {
-    fetch('/data/timeline.json')
-      .then(res => res.json())
-      .then(data => {
-        setData(data);
-        setLoading(false);
-      })
-      .catch(error => {
-        console.error('Error loading timeline data:', error);
-        setLoading(false);
-      });
-  }, []);
 
   // Scroll Restoration Logic
   useEffect(() => {
@@ -34,7 +21,7 @@ export default function Timeline() {
           if (targetElement) {
             targetElement.scrollIntoView({ behavior: 'auto', block: 'start' });
           }
-        }, 100); // Delay to ensure all rendering is complete
+        }, 100);
       }
     }
   }, [loading, data]);
@@ -45,7 +32,6 @@ export default function Timeline() {
       const cards = document.querySelectorAll('.timeline-card');
       let topCardId = null;
 
-      // Find the first card that is at or below the top of the viewport
       for (const card of cards) {
         if (card.getBoundingClientRect().top >= 0) {
           topCardId = card.id;
@@ -73,35 +59,33 @@ export default function Timeline() {
 
   // Manage body overflow based on modal state
   useEffect(() => {
-    if (selectedEvent || imageModalSrc) {
-      document.body.style.overflow = 'hidden';
-    } else {
-      document.body.style.overflow = 'unset';
-    }
-
-    return () => {
-      document.body.style.overflow = 'unset';
-    };
+    document.body.style.overflow = (selectedEvent || imageModalSrc) ? 'hidden' : 'unset';
+    return () => { document.body.style.overflow = 'unset'; };
   }, [selectedEvent, imageModalSrc]);
 
+  const extractLocation = useCallback((event) => {
+    for (const section of event.sections || []) {
+      if (section.type === 'identity-list' && section.items) {
+        // Location logic seems specific to identity-list
+        // But the previous implementation looked for label/value which matched my intuition
+        // Actually the previous code had: const locationItem = section.items.find(item => item.label === 'Lieu de naissance');
+        // Let's keep it but make it safer.
+        const locationItem = section.items.find(item =>
+          typeof item === 'object' && item.label === 'Lieu de naissance'
+        );
+        if (locationItem) return locationItem.value;
+      }
+    }
+    return '';
+  }, []);
 
   if (loading) {
     return <div className="container mx-auto max-w-7xl px-4 py-12 text-center">Chargement...</div>;
   }
 
-  if (!data) {
+  if (error || !data) {
     return <div className="container mx-auto max-w-7xl px-4 py-12 text-center">Erreur de chargement des données</div>;
   }
-
-  const extractLocation = (event) => {
-    for (const section of event.sections || []) {
-      if (section.type === 'identity-list' && section.items) {
-        const locationItem = section.items.find(item => item.label === 'Lieu de naissance');
-        if (locationItem) return locationItem.value;
-      }
-    }
-    return '';
-  };
 
   return (
     <>
@@ -130,7 +114,7 @@ export default function Timeline() {
                       <p className="text-sm text-color-2 mb-2">📍 {location}</p>
                     )}
                     {event.quote && (
-                      <p className="text-sm text-color-2 italic mb-4">"{event.quote}"</p>
+                      <p className="text-sm text-color-2 italic mb-4">&quot;{event.quote}&quot;</p>
                     )}
                     <button
                       onClick={() => setSelectedEvent({ event, index })}
