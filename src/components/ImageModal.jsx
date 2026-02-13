@@ -44,7 +44,8 @@ export default function ImageModal({ isOpen, imageSrc, onClose }) {
           src={imageSrc}
           alt="Image agrandie"
           isLightbox={false}
-          className="max-w-full max-h-full"
+          imageClassName="max-w-full max-h-full object-contain"
+          className="w-full h-full flex items-center justify-center"
           style={{ background: 'transparent' }}
           onClick={(e) => e.stopPropagation()}
         />

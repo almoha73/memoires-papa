@@ -9,6 +9,7 @@ export default function CenteredPortrait({ section }) {
             <OptimizedImage
                 src={img.src}
                 alt={img.alt}
+                imageClassName="w-full h-full object-cover"
                 style={{ aspectRatio, objectFit: 'cover' }}
             />
             {img.caption && (

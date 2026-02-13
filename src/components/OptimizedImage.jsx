@@ -11,6 +11,7 @@ export default function OptimizedImage({
     src,
     alt,
     className = '',
+    imageClassName = 'w-full h-auto object-cover',
     style = {},
     isLightbox = true,
     ...props
@@ -21,14 +22,14 @@ export default function OptimizedImage({
     const lightboxClasses = isLightbox ? 'lightbox-trigger cursor-pointer hover:scale-105 transition-transform' : '';
 
     return (
-        <div className={`overflow-hidden rounded-md bg-gray-100 ${className}`} style={style}>
+        <div className={`overflow-hidden rounded-md bg-transparent ${className}`} style={style}>
             <img
                 src={src}
                 alt={alt}
                 loading="lazy"
                 decoding="async"
                 onLoad={() => setIsLoaded(true)}
-                className={`${baseClasses} ${lightboxClasses} w-full h-auto object-cover`}
+                className={`${baseClasses} ${lightboxClasses} ${imageClassName}`}
                 {...props}
             />
         </div>
