@@ -27,9 +27,14 @@ export default function Calendar({ section }) {
                                         return (
                                             <td
                                                 key={dayIdx}
-                                                className={isHighlighted ? 'bg-color-3 text-white rounded-full font-bold py-1' : 'py-1'}
+                                                className={`py-1 ${isHighlighted ? 'bg-color-3 text-white rounded-full font-bold relative group cursor-pointer hover:bg-opacity-90 transition-colors' : ''}`}
                                             >
                                                 {day}
+                                                {isHighlighted && (
+                                                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-color-1 text-white text-xs rounded opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none z-10 shadow-lg">
+                                                        Jour de naissance
+                                                    </span>
+                                                )}
                                             </td>
                                         );
                                     })}

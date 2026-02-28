@@ -857,6 +857,17 @@
       "title": "Le XXᵉ siècle à Chevilly-Larue",
       "sections": [
         {
+          "type": "image-grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "images/evolution_demographique.jpg",
+              "alt": "Infographie de l'évolution démographique de Chevilly-Larue",
+              "caption": "L'évolution démographique de Chevilly-Larue, d'un village agricole à une ville moderne."
+            }
+          ]
+        },
+        {
           "type": "paragraphs",
           "content": [
             "En 1906, deux briqueteries, Lafontaine et Bohy, s'installent dans l'ouest de la commune ; leur activité durera respectivement jusqu'en 1935 et 1966. La même année, les sœurs de « Notre-Dame-de-Charité », couvent fondé en 1641 et hébergeant des jeunes filles en difficulté, construisent à Chevilly le monastère Saint-Michel et s'y installent en 1907. Ce bâtiment regroupe actuellement une communauté religieuse, une maison de retraite ainsi qu'un centre d'observation et de rééducation.",
@@ -900,6 +911,210 @@
             "L'enjeu du choix de la localisation d'une rue commémorant par son nom la Résistance n'est pas anodin. On honore plus ou moins la personne choisie selon que la voie est une avenue, une rue, ou une impasse, ou selon que cette voie occupe une position centrale ou non dans la ville. Le choix porte aussi sur le pan de mémoire locale qu'on est obligé de faire disparaître pour pouvoir attribuer le nom d'un résistant. Il arrive que les conseillers municipaux débattent de la pertinence du choix de la voie. On distingue une répartition par saupoudrage (quelques rues isolées), par quadrillage (tout l'espace de la ville est marqué) ou encore, par quartier.",
             "Dans le cas de Chevilly-Larue (dans l'actuel département du Val-de-Marne), la municipalité gaulliste a choisi de regrouper après-guerre, dans un même quartier autour de la Place de la Libération et en bordure de l'avenue du Général-de-Gaulle, les rues portant le nom de membres des Forces françaises de l'intérieur (FFI) tombés à Chevilly-Larue dans les combats de la Libération (lieutenant Petit-le-Roy, Jacques Hellouin) ou d'habitants de la ville fusillés pour faits de résistance (François Sautet).",
             "Cette politique mémorielle est poursuivie avec constance par les municipalités communistes (à partir de 1977). Toujours dans le même quartier, des rues prennent le nom de grandes figures de la Résistance (Pierre Brossolette, général Leclerc), de combats emblématiques (Bir Hakeim) ou encore de figures locales (Marcel Jolivet)."
+          ]
+        }
+      ]
+    },
+    {
+      "date": "FÉVRIER 1946",
+      "title": "Le Dieu Qui Bouge...",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/le_dieu_qui_bouge.jpg",
+            "alt": "Tract pour la pièce de théâtre Le Dieu Qui Bouge"
+          },
+          "content": [
+            "« Mon frère mourait sur scène. Je le revois dans son lit, blessé à la suite d’un bombardement. Je me revois sangloter, car je ne voulais pas qu’il meure... et maman de m’expliquer. Je revois encore, les trous de mémoire des acteurs qui n’avaient évidemment pas suffisamment travaillé. »"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1949",
+      "title": "L'année des 10 ans : photos de classe et premiers écrits",
+      "sections": [
+        {
+          "type": "subsection-title",
+          "title": "Photo de classe à l'école de Chevilly-Larue"
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "center",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/ecole_chevilly_cropped.jpg",
+            "alt": "Classe de Chevilly-Larue",
+            "caption": "Photographie de classe, Chevilly-Larue."
+          },
+          "content": [
+            "Une photographie de classe à Chevilly-Larue. Philippe devait avoir une dizaine d'années."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Photo de classe dans la prairie"
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "center",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/eleves_prairie.jpg",
+            "alt": "Photo de classe dans la prairie"
+          },
+          "content": [
+            "Une autre photographie de classe de cette époque, avec un groupe d’élèves assis dans une prairie en compagnie de leur instituteur. Ces instants de vie en plein air offraient des moments de respiration précieux pendant les années exigeantes de la guerre et de l’immédiat après-guerre. Philippe est devant, en habit clair, le deuxième en partant de la droite."
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Journal des élèves : Le pâtissier"
+        },
+        {
+          "type": "image-grid",
+          "columns": 2,
+          "images": [
+            {
+              "src": "images/le_patissier.jpg",
+              "alt": "Texte Le pâtissier par Philippe Beaumatin"
+            },
+            {
+              "src": "images/journal_joyeux.jpg",
+              "alt": "Couverture du journal Joyeux"
+            }
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Le journal « Joyeux » (n°6 Juin-Juillet 1949), journal mensuel illustré rédigé et imprimé par les élèves du cours moyen de l'école de garçons de Chevilly-Larue, contient un des premiers textes de Philippe à l'âge de 10 ans et 1 mois.",
+            "<strong>Le pâtissier</strong><br><br>« Quand j'étais petit, je m'amusais parfois au pâtissier. J'allais chercher de la terre dans mon jardin, je la posais sur une table en fer et je me mettais à travailler. Je faisais des galettes, des petits beurres, des tartes aux pommes (les pommes étaient des pommes de terre coupées en rondelles), des éclairs, des babas au rhum etc. J'avais des bonbons qui étaient des cailloux. Puis je faisais des billets de toutes sortes : 10f, 20f, 30f, 50f etc. Ensuite je disais que des clients venaient m'acheter de la marchandise. Les galettes je les vendais 800f, les petits beurres 1050f le kg, les tartes aux pommes de terre 400f, les babas au rhum 700 f. Quand le soir ma mère m'appelait, elle me disait : \"Qu'est-ce que tu as encore fait, petit cochon de malheur ? tu as encore joué à la terre, hein ?\" Et après m'être débarbouillé comme il faut, j'allais me coucher sans manger.<br><br><em>Beaumatin Philippe 10 ans 1 mois.</em> »"
+          ]
+        },
+        {
+          "type": "subsection-title",
+          "title": "Poème : Le Vent"
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/le_vent.jpg",
+            "alt": "Poème manuscrit Le Vent"
+          },
+          "content": [
+            "<strong>Le Vent</strong><br><br>",
+            "Le vent furieux,<br>Au pied des monts silencieux<br>Déracine les pommiers<br>Qui sont dans les vergers.<br>Il est la joie des enfants<br>Car ils aiment le vent.<br><br>",
+            "Il déchaîne la mer,<br>Qui gémit en l'air<br>Comme un animal sauvage<br>Et, folle de rage,<br>Démolit les ports<br>Puis après s'endort.<br><br>",
+            "<em>Beaumatin Philippe 10 ans.</em>"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "JUIN 1950",
+      "title": "La Gerbe : Berceuse",
+      "sections": [
+        {
+          "type": "image-grid",
+          "columns": 2,
+          "images": [
+            {
+              "src": "images/la_gerbe.jpg",
+              "alt": "Couverture de la revue La Gerbe, juin 1950"
+            },
+            {
+              "src": "images/berceuse.jpg",
+              "alt": "Poème Berceuse"
+            }
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Une publication issue de la revue mensuelle « La Gerbe » de juin 1950, illustrée par les élèves.",
+            "<strong>Berceuse</strong><br><br>Dodo, dodo,<br>Fais dodo,<br>Gentille<br>Petite fille<br>En bonnet de soie bleue,<br>Quand le ciel est bleu.<br>Dors aussi,<br>Petite chérie,<br>Quand le ciel devient noir<br>Dans le gris du soir.<br><br><em>Viviane LECLERCQ, 8 ans 5 m.<br>Ecole de filles, rue Flornoy, Bordeaux.</em>"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "VERS 1949-1950",
+      "title": "Souvenirs de Chevilly-Larue : le quotidien et la paroisse",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "content": [
+            "Quand nous sommes arrivés à Chevilly, il n'y avait pas de médecin, nous allions à Bourg-la-Reine, à pieds car il n'y avait aucun transport. La distance depuis la maison jusqu'au cabinet médical était de 4,5 km. Mon père travaillait et ma mère était encore mère au foyer. Pour aller en consultation... pour mon frère, nous prenions la poussette pour moi et Jacques devait aider maman de temps en temps pour la pousser. Je l'entends encore protester !"
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "right",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/soeur_gabrielle.jpg",
+            "alt": "Sœur Gabrielle"
+          },
+          "content": [
+            "Sinon pour les petits bobos il y avait sœur Gabrielle qui appartenait à l'ordre de Saint-Vincent-de-Paul. Elle tenait un dispensaire près de l'église. C'est elle qui m'a abordé lorsque je commençais à aller à l'école, seul comme un grand pour aller au catéchisme. Ma mère qui n'avait pas vu de très loin qui c'était était, évidemment, d'une grande inquiétude."
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/jacques_communion.jpg",
+            "alt": "Jacques enfant de chœur et communiant"
+          },
+          "content": [
+            "Jacques enfant de chœur. À la fin du cortège, on entr'aperçoit le curé du village qui discute avec un monsieur. Le curé : Émile Mounier dit Mimile. C'est lui qui nous a mariés Jacqueline et moi.",
+            "Le curé, à cette époque avait un bedeau. C'était un employé laïc préposé au service matériel dans une église mais aussi à l'ordre pendant l'office. À Chevilly, il demeurait au presbytère et était homme à tout faire. J'entends encore Jacques dire que Mimile aimait bien le vin de messe. Lorsque les burettes lui étaient présentées, la burette de vin n'était pas trop vite relevée à sa demande, par contre, celle versant l'eau pour « rincer » le calice était très vite empêchée de couler..."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Autre souvenir, au sujet de Mimile. Je pense que ce devait être l'année de ma communion, ou peu s'en faut. J'allais au patronage tous les jeudis. J'étais seul à la maison donc, j'avais 10-11 ans. Mes parents travaillaient ainsi que mon frère. Ce devait être, à coup sûr, la semaine sainte.",
+            "Ce matin-là, après le catéchisme, M. le curé me demande de revenir à l'église vers 16h et je pense qu'il avait fait sa demande à 11 autres camarades. Il nous avait dit que c'était pour le lavement des pieds. Il faisait beau. Et maman qui lavait tout notre linge à la main essayait de s'épargner de l'ouvrage : pas de chaussettes.",
+            "Donc vers 16h, après avoir joué dans le jardin, je regarde mes pieds, ils étaient plutôt sales. Mais après tout le curé m'avait bien dit qu'il allait me les laver ! Je me revois assis dans le chœur de l'église avec mes camarades : nous étions douze apôtres. Pas de bassine, pas de gant de toilette, pas de savon.",
+            "Je revois le curé me verser quelques gouttes d'eau sur le dessus d'un seul pied (le droit), frotter avec un coton. Je revois le « rond » propre et m'y déposer un baiser !!! Mon Dieu ! (foi de l'athée devenu !) quelle image !"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "VERS 1950",
+      "title": "Menus de repas de Communion",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/menu_dejeuner.jpg",
+            "alt": "Menu du déjeuner de communion"
+          },
+          "content": [
+            "<div class=\"text-center bg-amber-50/30 p-4 rounded border border-amber-100 shadow-sm\"><strong class=\"text-lg text-amber-900 border-b border-amber-200 pb-1 mb-3 inline-block\">Déjeuner</strong><br>Hors d'œuvre variés<br>Truites « Muguette »<br>Lapin sauce Madère<br>« Sourire de Françoise »<br>Gigue Normande<br>Haricots Maître d'Hôtel<br>Salade<br>Le Plateau de Fromages<br>Pièce Montée<br>Corbeille de Fruits<br><br><em class=\"text-sm text-gray-600\">Vins fins - Café - Liqueurs</em></div>"
+          ]
+        },
+        {
+          "type": "image-text-layout",
+          "imagePosition": "right",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/menu_diner.jpg",
+            "alt": "Menu du dîner de communion"
+          },
+          "content": [
+            "<div class=\"text-center bg-amber-50/30 p-4 rounded border border-amber-100 shadow-sm\"><strong class=\"text-lg text-amber-900 border-b border-amber-200 pb-1 mb-3 inline-block\">Dîner</strong><br>Potage Velouté<br>Galantine de Volailles au porto<br>Langue sauce piquante<br>« Au bonheur de la Communiante »<br>Chapons du Mans<br>Petits pois à la Française<br>Salade<br>Gâteaux Assortis<br>Bombe Glacée<br><br><em class=\"text-sm text-gray-600\">Vins fins - Champagne<br>Café - Liqueurs</em><br><br><span class=\"text-xs text-amber-700 italic border-t border-amber-200 block pt-2 mt-2\">Souvenir de Communion - Monsieur Philippe Beaumatin</span></div>"
           ]
         }
       ]
