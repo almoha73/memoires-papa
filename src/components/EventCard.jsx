@@ -33,7 +33,9 @@ export default function EventCard({ event, index, isInsideModal = false }) {
         )}
 
         {event.sections && event.sections.map((section, sectionIdx) => (
-          <SectionRenderer key={sectionIdx} section={section} />
+          <div key={sectionIdx} className="mb-8 last:mb-0">
+            <SectionRenderer section={section} />
+          </div>
         ))}
       </div>
     </div>

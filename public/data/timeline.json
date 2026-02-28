@@ -1070,8 +1070,8 @@
           "imagePosition": "left",
           "imageWidth": "1/2",
           "image": {
-            "src": "images/jacques_communion.jpg",
-            "alt": "Jacques enfant de chœur et communiant"
+            "src": "images/soeur_gabrielle_portrait.jpg",
+            "alt": "Sœur Gabrielle (portrait d'époque)"
           },
           "content": [
             "Jacques enfant de chœur. À la fin du cortège, on entr'aperçoit le curé du village qui discute avec un monsieur. Le curé : Émile Mounier dit Mimile. C'est lui qui nous a mariés Jacqueline et moi.",
@@ -1115,6 +1115,59 @@
           },
           "content": [
             "<div class=\"text-center bg-amber-50/30 p-4 rounded border border-amber-100 shadow-sm\"><strong class=\"text-lg text-amber-900 border-b border-amber-200 pb-1 mb-3 inline-block\">Dîner</strong><br>Potage Velouté<br>Galantine de Volailles au porto<br>Langue sauce piquante<br>« Au bonheur de la Communiante »<br>Chapons du Mans<br>Petits pois à la Française<br>Salade<br>Gâteaux Assortis<br>Bombe Glacée<br><br><em class=\"text-sm text-gray-600\">Vins fins - Champagne<br>Café - Liqueurs</em><br><br><span class=\"text-xs text-amber-700 italic border-t border-amber-200 block pt-2 mt-2\">Souvenir de Communion - Monsieur Philippe Beaumatin</span></div>"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1949-1950",
+      "title": "Photo de classe à Choisy-le-Roi",
+      "sections": [
+        {
+          "type": "image-grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "images/ecole_choisy.jpg",
+              "alt": "Photo de classe à Choisy-le-Roi, école George Choisy",
+              "caption": "Classe de l'école George Choisy à Choisy-le-Roi. Sur le mur du fond, on peut lire la devise : « REGARDER EN HAUT APPRENDRE AU DELA CHERCHER A S'ELEVER TOU... »"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "17 DÉCEMBRE 2020",
+      "title": "Hommage au Docteur Christian Chenay",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/dr_chenay_web.webp",
+            "alt": "Article sur le Dr Chenay avec notes manuscrites"
+          },
+          "content": [
+            "« J'écris ces lignes, aujourd'hui 17/12/2020 en hommage à ce couple exceptionnel qui m'a soigné lorsque j'étais ado., il y a 70 ans. »"
+          ]
+        },
+        {
+          "type": "explanation-box",
+          "title": "Extrait de l'article de France Bleu Paris (par Isabelle Piroux)",
+          "content": [
+            "<strong>À 99 ans, le plus vieux médecin de France exerce à Chevilly-Larue dans le Val-de-Marne (Lundi 17 février 2020)</strong><br><br>",
+            "Deux jours par semaine, le docteur Christian Chenay assure des consultations dans son cabinet de Chevilly-Larue (Val-de-Marne). À 99 ans, le plus vieux médecin de France est à la retraite mais continue de travailler pour éviter d'accroître la désertification médicale. Portrait d'un personnage.<br><br>",
+            "« J'ai connu l'époque où il y avait douze médecins et 12.000 habitants, maintenant on est 19.000 et on n'est plus que trois. » À 99 ans, le docteur Christian Chenay n'a pas de mal à remplir ses consultations avec les anciens patients qu'il suit depuis des années, parfois leurs enfants et petits enfants.<br><br>",
+            "Il reçoit aussi beaucoup de gens aux revenus très faibles et des migrants. « J'ai 30 % d'impayés dans mes consultations, je peux me le permettre car j'ai aussi une retraite de médecin et de l'enseignement supérieur » affirme cet homme qui n'a jamais voulu arrêter son activité. « Si on ne fait plus rien, on sombre très vite ».<br><br>",
+            "Cet ancien soudeur, né en 1921, fils d'un policier communiste d'origine irlandaise, a eu une vie bien remplie. Enseignant en faculté de sciences à partir des années 50, il entre en médecine par la psychiatrie, il sera ensuite radiologue et enfin généraliste, c'était possible à l'époque, explique-t-il. Il a aussi travaillé aux États-Unis. Depuis 1951, il est généraliste à Chevilly-Larue (Val-de-Marne)."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "« Le Dr. Chenay, débordé par l'épidémie de grippe est venu me consulter un soir à minuit. Maman était au 36ème dessous. Diagnostic effectué, il a emmené Maman avec sa dodoche chez le pharmacien et l'a ramenée à la maison. Et c'est Mme Chenay qui est venue prendre de mes nouvelles deux jours après pour soulager son mari. Elle le faisait lorsqu'il y avait beaucoup de malades. Un couple hors normes. »",
+            "« Que Dieu les bénisse (foi d'athée !!!) Je ne sais pas si la femme en photo est celle que j'ai connue... »"
           ]
         }
       ]
