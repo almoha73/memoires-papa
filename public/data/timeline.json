@@ -1094,27 +1094,9 @@
       "title": "Menus de repas de Communion",
       "sections": [
         {
-          "type": "image-text-layout",
-          "imagePosition": "left",
-          "imageWidth": "1/2",
-          "image": {
-            "src": "images/menu_dejeuner.jpg",
-            "alt": "Menu du déjeuner de communion"
-          },
+          "type": "paragraphs",
           "content": [
-            "<div class=\"text-center bg-amber-50/30 p-4 rounded border border-amber-100 shadow-sm\"><strong class=\"text-lg text-amber-900 border-b border-amber-200 pb-1 mb-3 inline-block\">Déjeuner</strong><br>Hors d'œuvre variés<br>Truites « Muguette »<br>Lapin sauce Madère<br>« Sourire de Françoise »<br>Gigue Normande<br>Haricots Maître d'Hôtel<br>Salade<br>Le Plateau de Fromages<br>Pièce Montée<br>Corbeille de Fruits<br><br><em class=\"text-sm text-gray-600\">Vins fins - Café - Liqueurs</em></div>"
-          ]
-        },
-        {
-          "type": "image-text-layout",
-          "imagePosition": "right",
-          "imageWidth": "1/2",
-          "image": {
-            "src": "images/menu_diner.jpg",
-            "alt": "Menu du dîner de communion"
-          },
-          "content": [
-            "<div class=\"text-center bg-amber-50/30 p-4 rounded border border-amber-100 shadow-sm\"><strong class=\"text-lg text-amber-900 border-b border-amber-200 pb-1 mb-3 inline-block\">Dîner</strong><br>Potage Velouté<br>Galantine de Volailles au porto<br>Langue sauce piquante<br>« Au bonheur de la Communiante »<br>Chapons du Mans<br>Petits pois à la Française<br>Salade<br>Gâteaux Assortis<br>Bombe Glacée<br><br><em class=\"text-sm text-gray-600\">Vins fins - Champagne<br>Café - Liqueurs</em><br><br><span class=\"text-xs text-amber-700 italic border-t border-amber-200 block pt-2 mt-2\">Souvenir de Communion - Monsieur Philippe Beaumatin</span></div>"
+            "<div class=\"grid grid-cols-2 gap-6 sm:gap-12 mt-2\"><div class=\"flex items-center justify-center p-2\"><img src=\"images/menu_diner.jpg\" class=\"w-full h-auto object-contain rounded-lg shadow-md max-h-[400px] lightbox-trigger cursor-pointer\" alt=\"Menu Déjeuner\"/></div><div class=\"flex items-center justify-center p-2\"><img src=\"images/menu_dejeuner.jpg\" class=\"w-full h-auto object-contain rounded-lg shadow-md max-h-[400px] lightbox-trigger cursor-pointer\" alt=\"Menu Dîner\"/></div><div class=\"text-center bg-amber-50/30 p-3 sm:p-6 rounded-lg border border-amber-100 shadow-sm h-full\"><strong class=\"text-base sm:text-xl font-serif-handwritten text-amber-900 border-b border-amber-200/50 pb-1 sm:pb-2 mb-2 sm:mb-4 inline-block\">Déjeuner</strong><br><span class=\"leading-relaxed sm:leading-loose text-color-2 text-xs sm:text-base\">Hors d'œuvre variés<br>Truites « Muguette »<br>Lapin sauce Madère<br>« Sourire de Françoise »<br>Gigue Normande<br>Haricots Maître d'Hôtel<br>Salade<br>Le Plateau de Fromages<br>Pièce Montée<br>Corbeille de Fruits</span><br><br><em class=\"text-[10px] sm:text-sm text-amber-700/80 mt-2 sm:mt-4 block\">Vins fins - Café - Liqueurs</em></div><div class=\"text-center bg-amber-50/30 p-3 sm:p-6 rounded-lg border border-amber-100 shadow-sm h-full\"><strong class=\"text-base sm:text-xl font-serif-handwritten text-amber-900 border-b border-amber-200/50 pb-1 sm:pb-2 mb-2 sm:mb-4 inline-block\">Dîner</strong><br><span class=\"leading-relaxed sm:leading-loose text-color-2 text-xs sm:text-base\">Potage Velouté<br>Galantine de Volailles au porto<br>Langue sauce piquante<br>« Au bonheur de la Communiante »<br>Chapons du Mans<br>Petits pois à la Française<br>Salade<br>Gâteaux Assortis<br>Bombe Glacée</span><br><br><em class=\"text-[10px] sm:text-sm text-amber-700/80 mt-2 sm:mt-4 block\">Vins fins - Champagne<br>Café - Liqueurs</em><br><br><span class=\"text-[9px] sm:text-xs text-amber-700/60 font-serif-handwritten block pt-2 sm:pt-4 mt-2 sm:mt-4\">Souvenir de Communion - Monsieur Philippe Beaumatin</span></div></div>"
           ]
         }
       ]
@@ -1132,6 +1114,63 @@
               "alt": "Photo de classe à Choisy-le-Roi, école George Choisy",
               "caption": "Classe de l'école George Choisy à Choisy-le-Roi. Sur le mur du fond, on peut lire la devise : « REGARDER EN HAUT APPRENDRE AU DELA CHERCHER A S'ELEVER TOU... »"
             }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1950-1951",
+      "title": "Photo de classe à Choisy-le-Roi",
+      "sections": [
+        {
+          "type": "image-grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "images/ecole_choisy_50_51.jpg",
+              "alt": "Photo de classe 1950-1951 à Choisy-le-Roi",
+              "caption": "Photo de classe à l'école George Choisy de Choisy-le-Roi pour l'année scolaire 1950-1951. Philippe se trouve au dernier rang, deuxième en partant de la droite."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "date": "1953",
+      "title": "Témoignage : L'année 1953",
+      "sections": [
+        {
+          "type": "image-grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "images/professeurs_choisy.jpg",
+              "alt": "Les professeurs de 3ème à Choisy-le-Roi",
+              "caption": "Les professeurs à Choisy-le-Roi en 1953, lorsque Philippe était en 3ème et avait 14 ans."
+            }
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Nul ne peut savoir quelle est l'importance du moment que l'on vit et d'autant plus quand on est jeune. La jeunesse et l'insouciance vont souvent de pair.",
+            "Cette année là, j'étais en 3e. C'était pour moi, l'année du brevet. Bon élève ? Disons, moyennement bon. Le directeur de l'école Emile Zola à Choisy-le-Roi, où je « sévissais » m'a proposé ainsi qu'à quelques uns de mes camarades de me présenter au certificat d'études. J'ai acquiescé, en lui disant que si j'avais le brevet, j'aurais peut-être le certificat. Évidemment, je me suis fait remonter les bretelles pour tenir de tels propos.",
+            "Des cours du soir nous ont été prodigués pour nous apprendre le programme du certif' qui n'était pas le même que celui du brevet.",
+            "Le temps passe, et le moment des épreuves arrive. Certificat d'études à Choisy-le-Roi dans un autre établissement que celui où j'allais. Peu de souvenirs de cette épreuve. Calcul mental. Récitation ou Marseillaise : j'ai eu récitation. -> La rose de l'Infante de Victor Hugo. Math. Un problème mal enclenché. J'ai rayé proprement comme on nous l'avait prescrit en cas d'erreur.",
+            "Quant au brevet, je l'ai passé à Paris, épreuves sur deux jours. L'anglais portait sur un passage d'« Alice au pays des merveilles ». On tirait au sort : histoire ou géo. J'ai tiré « histoire ». Mon épreuve portait sur la conquête de l'Algérie. Ironie du sort. Je m'en souviendrai six ans plus tard !!! Les repas du midi ont été pris en charge par la maman d'un camarade de Chevilly avec lequel j'avais passé le concours d'entrée en 6e : Hennery, un camarade que j'ai retrouvé à Médéa. Bifteck haché, cru, de cheval, à la terrasse d'un café !!!",
+            "Le temps passe et le moment des résultats arrive. Inquiet ? Je ne sais pas. Jeune, naïf et insouciant ?",
+            "Un samedi matin, j'accompagne ma mère au marché. Il se tenait, celui-ci, à Choisy-le-Roi sur le trottoir de l'avenue qui menait à Paris. Nous rencontrons Mr Chabenat, mon prof de français. Il me salue et me regarde. Tous mes compliments Philippe. Il me voit interloqué ainsi que ma mère. « Vous n'êtes pas au courant ? Les résultats du certificat d'études ont été célébrés, cette semaine au cinéma avec les élèves et les parents. Philippe est reçu 1er du canton. Ne pouvant monter sur scène pour être félicité et recevoir son prix, il a été dit que son absence était due au fait qu'il n'était pas présent du fait qu'il passait l'examen du BEPC. »",
+            "(Il a dû sûrement le savoir. Que je ne sois pas présent et pour cause, mais mes parents ?...). Avec le recul du temps, Jacques avait 21 ans. Il fréquentait déjà, depuis bien longtemps Andrée, et effectuait son service militaire. Il accaparait tous les esprits, faisait beaucoup (doux euphémisme) de soucis à mes parents. C'était le début d'un second rôle pour moi.",
+            "La semaine suivante, le lundi probablement, je retourne en classe. Nous étions, manifestement en juillet et, à cette époque, les vacances ne commençaient que le 14 juillet. Le prof principal Mr Bonneton remet mon prix devant toute la classe et me félicite. Toute la classe s'est levée pour me congratuler sauf un gars, resté assis bras croisés et faisant la moue. Mon meilleur (???) copain, Roland Audebert.",
+            "Quelques jours passent et je suis convoqué avec mon père au bureau du directeur. Je n'étais pas inscrit pour aller en seconde. Le lycée se trouvait à Paris à la station de métro Port-Royal. Quelle queue interminable, les transports me faisaient peur mais à quoi pensait mon père ? Il s'est fait faire des remarques par le directeur et les choses en sont restées là.",
+            "Quant à moi, je me laissais vivre. Sans souci. C'est bizarre. Pas la moindre maturité. Je pars en vacances à Rouen chez mon oncle et ma tante Marcelle, tenir compagnie à mon cousin Jean. A cette époque, c'est une moitié de vacances à Chevilly, l'autre moitié à Rouen.",
+            "Les jours passent et, un samedi matin, mon père arrive en voiture (mi-septembre) pour me ramener, à ma grande déception, à Chevilly. J'étais inscrit pour passer un concours d'entrée dans une école à Paris (encore !!) l'Institut d'Arsonval. On y préparait un genre de B.T.S.",
+            "Je me revois passer le concours. Il s'agissait d'une session de rattrapage pour les candidats non reçus en juillet et pour des égarés comme moi. J'ai eu ma place au 1er rang près du bureau du surveillant, côté fenêtre. Entre un homme de haute stature. (J'ai su après que c'était le directeur de l'Institut). Il me regarde et me demande : « Qu'est ce que vous faites là ? ». Je m'entends encore lui répondre : « Monsieur, je passe le concours. » A question idiote, réponse idiote.",
+            "« Quel âge avez-vous ? » réponse : 14 1/2 ans. A cet âge là, les mois comptent. Il se tourne vers le surveillant et dit courroucé : « qu'est-ce que c'est que ça ? Il n'a pas l'âge. » J'étais au 36e dessous et il m'a dit « Ne vous faites pas de soucis, continuez ».",
+            "Concours terminé, je retourne à Rouen terminer mes vacances. Et je me retrouve, courant octobre, à l'Institut d'Arsonval, concours réussi, le plus jeune de ma classe. Trois années à y passer : P.M. (Préparatoire Médical) puis Bio 1 et Bio 2. En P.M. 36 élèves. Essentiellement des filles. Seulement 6 garçons. Pierre Agogué, Robert Despinois, Jean Cogin, Jean-Pierre Brule, Jacques Baraud (le plus vieux, 21 ans) et moi. Scolarité : 1953-54, 1954-55, 1955-56.",
+            "Fin 53, ma cousine (une de mes...) décède de la tuberculose : Monique. Début 55, une de ses sœurs, ma préférée, Jacqueline : tuberculose. Août 55, mon oncle meurt d'un cancer, vraisemblablement déclenché par le chagrin.",
+            "C'est à l'Institut d'Arsonval que Jacqueline et moi, nous nous sommes connus. J'étais assis derrière elle et sa queue de cheval balayait mes écritures.",
+            "P.M. : pas de problème particulier, sauf que ma mère a eu du mal à m'habiller comme un jeune homme. J'étais vêtu comme un gamin (pantalon golf). Ridicule, à côté des jeunes hommes de ma classe."
           ]
         }
       ]
