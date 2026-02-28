@@ -1103,7 +1103,7 @@
     },
     {
       "date": "1949-1950",
-      "title": "Photo de classe à Choisy-le-Roi",
+      "title": "Photo de classe à Chevilly-Larue",
       "sections": [
         {
           "type": "image-grid",
@@ -1111,8 +1111,8 @@
           "images": [
             {
               "src": "images/ecole_choisy.jpg",
-              "alt": "Photo de classe à Choisy-le-Roi, école George Choisy",
-              "caption": "Classe de l'école George Choisy à Choisy-le-Roi. Sur le mur du fond, on peut lire la devise : « REGARDER EN HAUT APPRENDRE AU DELA CHERCHER A S'ELEVER TOU... »"
+              "alt": "Photo de classe à Chevilly-Larue",
+              "caption": "Classe à Chevilly-Larue. Sur le mur du fond, on peut lire la devise : « REGARDER EN HAUT APPRENDRE AU DELA CHERCHER A S'ELEVER TOU... »"
             }
           ]
         }
@@ -1120,7 +1120,7 @@
     },
     {
       "date": "1950-1951",
-      "title": "Photo de classe à Choisy-le-Roi",
+      "title": "Photo de classe à Chevilly-Larue",
       "sections": [
         {
           "type": "image-grid",
@@ -1128,8 +1128,8 @@
           "images": [
             {
               "src": "images/ecole_choisy_50_51.jpg",
-              "alt": "Photo de classe 1950-1951 à Choisy-le-Roi",
-              "caption": "Photo de classe à l'école George Choisy de Choisy-le-Roi pour l'année scolaire 1950-1951. Philippe se trouve au dernier rang, deuxième en partant de la droite."
+              "alt": "Photo de classe 1950-1951 à Chevilly-Larue",
+              "caption": "Photo de classe à Chevilly-Larue pour l'année scolaire 1950-1951. Philippe se trouve au dernier rang, deuxième en partant de la droite."
             }
           ]
         }
