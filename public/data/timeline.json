@@ -24,9 +24,15 @@
           ]
         },
         {
-          "type": "calendar",
-          "month": "Février 1939",
-          "highlightDay": 8
+          "type": "image-grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "images/calendrier-naissance-philippe.png",
+              "alt": "Calendrier commémoratif 1939 - Naissance de Philippe",
+              "caption": "Calendrier commémoratif de l'année 1939, marquant le jour de naissance de Philippe."
+            }
+          ]
         },
         {
           "type": "image-grid",
