@@ -1170,12 +1170,22 @@
       "sections": [
         {
           "type": "image-grid",
-          "columns": 1,
+          "columns": 3,
           "images": [
             {
               "src": "images/mariage-jacques-andree.jpg",
               "alt": "Calendrier 1955 - Mariage de Jacques et Andrée",
-              "caption": "Calendrier commémoratif de l'année 1955, marqué par le mariage de Jacques et Andrée."
+              "caption": "Calendrier 1955."
+            },
+            {
+              "src": "images/mairie-15e.jpg",
+              "alt": "Mairie du XVe arrondissement de Paris",
+              "caption": "La mairie du XVe arrondissement."
+            },
+            {
+              "src": "images/rue-quatre-freres-peignot.jpg",
+              "alt": "Rue des Quatre-Frères-Peignot",
+              "caption": "La rue des Quatre-Frères-Peignot où habitait Andrée."
             }
           ]
         },
