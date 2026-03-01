@@ -1169,14 +1169,28 @@
       "title": "Mariage de Jacques et Andrée",
       "sections": [
         {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/3",
+          "image": {
+            "src": "images/mariage-jacques-andree.jpg",
+            "alt": "Calendrier 1955 - Mariage de Jacques et Andrée"
+          },
+          "content": [
+            "L'année 1955 est marquée par une étape importante pour la famille : le mariage de Jacques avec Andrée en plein été. Un événement qui apportera son lot de changements et de nouveaux défis pour la cohabitation au sein du foyer familial.",
+            "« Ce fut un mariage extrêmement modeste, mais il faut bien s'imaginer et réaliser qu'à cette époque-là, mettre la charrue avant les bœufs, ça ne se faisait pas. Ma mère s'évertuait à répondre aux questions que l'on posait qu'Andrée avait eu le divorce à son avantage."
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "Le mariage a eu lieu à la mairie du XVe, je suppose puisque Andrée demeurait rue des Quatre-Frères-Peignot. Ce dont je me souviens, c'est que nous attendions notre tour près d'une cheminée monumentale dans une immense salle et qu'il y avait moult mariées avec des robes magnifiques. »"
+          ]
+        },
+        {
           "type": "image-grid",
-          "columns": 3,
+          "columns": 2,
           "images": [
-            {
-              "src": "images/mariage-jacques-andree.jpg",
-              "alt": "Calendrier 1955 - Mariage de Jacques et Andrée",
-              "caption": "Calendrier 1955."
-            },
             {
               "src": "images/mairie-15e.jpg",
               "alt": "Mairie du XVe arrondissement de Paris",
@@ -1186,7 +1200,20 @@
               "src": "images/rue-quatre-freres-peignot.jpg",
               "alt": "Rue des Quatre-Frères-Peignot",
               "caption": "La rue des Quatre-Frères-Peignot où habitait Andrée."
-            },
+            }
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "« Aujourd'hui, ce qui me révolte, c'est que Jacques ait pu prendre une femme sans son enfant. Jacky, un beau petit bonhomme, avait 3 ou 4 ans de moins que moi, je suppose ? Je revois le gamin, un jour de fête des mères, apporter une jolie bonbonnière rose que j'ai revue chez Catherine. La scène se passait chez Madame BRUGNON, la maman d'Andrée, chez qui ils avaient « trouvé refuge » (1957-1958 ?).",
+            "Andrée, maman très émue. Pas Jacques !! Je revois Jacky se hisser sur la pointe des pieds pour essayer d'embrasser son beau-père et Jacques ne pas se pencher pour lui faciliter la tâche, comme si le gamin était pestiféré. Comment ma mère qui a tant adoré ses petits-enfants a pu tolérer une chose pareille ? Intolérable, inadmissible. »"
+          ]
+        },
+        {
+          "type": "image-grid",
+          "columns": 2,
+          "images": [
             {
               "src": "images/mariage-jacques-andree-souvenir1.jpg",
               "alt": "Souvenir du mariage de Jacques et Andrée 1",
@@ -1202,12 +1229,7 @@
         {
           "type": "paragraphs",
           "content": [
-            "L'année 1955 est marquée par une étape importante pour la famille : le mariage de Jacques avec Andrée en plein été. Un événement qui apportera son lot de changements et de nouveaux défis pour la cohabitation au sein du foyer familial.",
-            "« Ce fut un mariage extrêmement modeste, mais il faut bien s'imaginer et réaliser qu'à cette époque-là, mettre la charrue avant les bœufs, ça ne se faisait pas. Ma mère s'évertuait à répondre aux questions que l'on posait qu'Andrée avait eu le divorce à son avantage.",
-            "Le mariage a eu lieu à la mairie du XVe, je suppose puisque Andrée demeurait rue des Quatre-Frères-Peignot. Ce dont je me souviens, c'est que nous attendions notre tour près d'une cheminée monumentale dans une immense salle et qu'il y avait moult mariées avec des robes magnifiques.",
-            "Aujourd'hui, ce qui me révolte, c'est que Jacques ait pu prendre une femme sans son enfant. Jacky, un beau petit bonhomme, avait 3 ou 4 ans de moins que moi, je suppose ? Je revois le gamin, un jour de fête des mères, apporter une jolie bonbonnière rose que j'ai revue chez Catherine. La scène se passait chez Madame BRUGNON, la maman d'Andrée, chez qui ils avaient « trouvé refuge » (1957-1958 ?).",
-            "Andrée, maman très émue. Pas Jacques !! Je revois Jacky se hisser sur la pointe des pieds pour essayer d'embrasser son beau-père et Jacques ne pas se pencher pour lui faciliter la tâche, comme si le gamin était pestiféré. Comment ma mère qui a tant adoré ses petits-enfants a pu tolérer une chose pareille ? Intolérable, inadmissible.",
-            "J'en veux beaucoup à mon frère et il s'est beaucoup déconsidéré dans mon esprit. Et mon père dans tout cela ? Inexistant, mais avec le recul du temps, l'affection qu'il témoignait à son fils aîné et les soucis que cette situation lui faisaient expliquent peut-être son comportement.",
+            "« J'en veux beaucoup à mon frère et il s'est beaucoup déconsidéré dans mon esprit. Et mon père dans tout cela ? Inexistant, mais avec le recul du temps, l'affection qu'il témoignait à son fils aîné et les soucis que cette situation lui faisaient expliquent peut-être son comportement.",
             "Comment Jacky s'est-il fait homme ? Il a, je crois, été très peu reçu chez les Beaumatin, pas du tout chez mes parents. Il est décédé, je crois, relativement jeune. Ne pas avoir été structuré dans un foyer équilibré lui a coûté la vie. Mauvaises fréquentations ? Drogue ? Alcool ? Pas de métier ? Rien de motivant ? Quoi qu'il en soit, une vie gâchée. »"
           ]
         }
