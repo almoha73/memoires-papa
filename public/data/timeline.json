@@ -1165,6 +1165,29 @@
       ]
     },
     {
+      "date": "AOÛT 1955",
+      "title": "Mariage de Jacques et Andrée",
+      "sections": [
+        {
+          "type": "image-grid",
+          "columns": 1,
+          "images": [
+            {
+              "src": "images/mariage-jacques-andree.webp",
+              "alt": "Calendrier 1955 - Mariage de Jacques et Andrée",
+              "caption": "Calendrier commémoratif de l'année 1955, marqué par le mariage de Jacques et Andrée."
+            }
+          ]
+        },
+        {
+          "type": "paragraphs",
+          "content": [
+            "L'année 1955 est marquée par une étape importante pour la famille : le mariage de Jacques avec Andrée en plein été. Un événement qui apportera son lot de changements et de nouveaux défis pour la cohabitation au sein du foyer familial."
+          ]
+        }
+      ]
+    },
+    {
       "date": "1953 - 1956",
       "title": "Témoignage : Les années d'études et de cohabitation (1953-1956)",
       "sections": [
