@@ -934,20 +934,30 @@
       ]
     },
     {
-      "date": "VERS 1947-1948",
-      "title": "Vacances à bicyclette en Auvergne",
+      "date": "VERS 1947-1949",
+      "title": "Vacances à bicyclette en Auvergne et années d'école",
       "sections": [
         {
-          "type": "image-text-layout",
-          "imagePosition": "left",
-          "imageWidth": "1/2",
-          "image": {
-            "src": "images/jacques_copains_velo.jpg",
-            "alt": "Jacques avec ses copains à bicyclette"
-          },
+          "type": "image-grid",
+          "columns": 2,
+          "images": [
+            {
+              "src": "images/jacques_copains_velo.jpg",
+              "alt": "Jacques avec ses copains à bicyclette",
+              "caption": "Jacques (14-15 ans) avec ses copains à bicyclette."
+            },
+            {
+              "src": "images/philippe_classe_48_49.jpg",
+              "alt": "Photo de classe de Philippe 1948-1949",
+              "caption": "Photo de classe de Philippe (9-10 ans), année scolaire 1948-1949."
+            }
+          ]
+        },
+        {
+          "type": "paragraphs",
           "content": [
             "Jacques avec des copains, proches du curé et avec lesquels il est parti en vacances... à bicyclette, peut-être en Auvergne. À cette époque, Philippe avait 8-9 ans et Jacques 14-15 ans.",
-            "Ces expéditions à vélo témoignaient du goût pour l'aventure et de la camaraderie de l'époque. Partir explorer les routes de France, comme celles de l'Auvergne, représentait une véritable épopée pour ces jeunes adolescents de l'immédiat après-guerre."
+            "En parallèle, ces années marquent le temps de l'école primaire pour Philippe à Chevilly-Larue. Sur la photo de classe de l'année 1948-1949, on peut voir l'atmosphère sérieuse et appliquée des salles de classe de l'après-guerre."
           ]
         }
       ]
