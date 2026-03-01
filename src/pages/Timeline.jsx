@@ -108,17 +108,17 @@ export default function Timeline() {
               return (
                 <div key={index} id={`timeline-event-${index}`} className={`timeline-card ${alignment}`}>
                   <div className="content">
-                    <div className="text-sm text-color-3 font-semibold mb-2">{event.date}</div>
+                    <div className="text-base text-color-3 font-semibold mb-2">{event.date}</div>
                     <h3 className="text-xl font-bold text-color-1 mb-2">{event.title}</h3>
                     {location && (
-                      <p className="text-sm text-color-2 mb-2">📍 {location}</p>
+                      <p className="text-base text-color-2 mb-2">📍 {location}</p>
                     )}
                     {event.quote && (
-                      <p className="text-sm text-color-2 italic mb-4">&quot;{event.quote}&quot;</p>
+                      <p className="text-base text-color-2 italic mb-4">&quot;{event.quote}&quot;</p>
                     )}
                     <button
                       onClick={() => setSelectedEvent({ event, index })}
-                      className="text-sm text-color-3 hover:text-color-1 font-semibold"
+                      className="text-base text-color-3 hover:text-color-1 font-semibold"
                     >
                       Lire la suite
                     </button>

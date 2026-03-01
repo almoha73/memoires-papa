@@ -129,7 +129,7 @@ export default function Memoire() {
                 }`}
             >
               <span className="font-bold text-lg">{classeur.title}</span>
-              <span className={`text-sm mt-1 ${activeClasseur === classeur.id ? 'text-white/80' : 'text-color-3'}`}>
+              <span className={`text-base mt-1 ${activeClasseur === classeur.id ? 'text-white/80' : 'text-color-3'}`}>
                 {classeur.subtitle}
               </span>
             </button>
@@ -151,7 +151,7 @@ export default function Memoire() {
                         <li key={index}>
                           <a
                             href={`#${id}`}
-                            className={`block text-sm transition-colors ${isActive ? 'text-color-1 font-bold' : 'text-color-2 hover:text-color-1'}`}
+                            className={`block text-base transition-colors ${isActive ? 'text-color-1 font-bold' : 'text-color-2 hover:text-color-1'}`}
                             onClick={(e) => {
                               e.preventDefault();
                               const target = document.getElementById(id);
@@ -170,7 +170,7 @@ export default function Memoire() {
                               }
                             }}
                           >
-                            <span className="text-xs text-color-3 block">{event.date}</span>
+                            <span className="text-sm text-color-3 block">{event.date}</span>
                             {event.title}
                           </a>
                         </li>

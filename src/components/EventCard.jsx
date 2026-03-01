@@ -7,14 +7,14 @@ export default function EventCard({ event, index, isInsideModal = false }) {
   return (
     <div id={cardId} className="mb-8">
       <div className="bg-white p-6 lg:p-8 rounded-lg shadow-md border border-color-5">
-        <span className="text-sm font-semibold text-color-3">{event.date}</span>
+        <span className="text-base font-semibold text-color-3">{event.date}</span>
         <h2 className="text-2xl font-bold font-serif-handwritten mt-1 mb-4 text-color-1">
           {event.title}
         </h2>
         {!isInsideModal && (
           <Link
             to={`/timeline#timeline-event-${index}`}
-            className="text-sm text-color-3 hover:text-color-1 font-semibold mb-4 inline-block"
+            className="text-base text-color-3 hover:text-color-1 font-semibold mb-4 inline-block"
           >
             Retour à la chronologie
           </Link>

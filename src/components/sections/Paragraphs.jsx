@@ -5,7 +5,7 @@ export default function Paragraphs({ section }) {
                 <p key={idx} className="leading-relaxed" dangerouslySetInnerHTML={{ __html: p }} />
             ))}
             {section.author && (
-                <p className="text-sm text-color-2/80 italic" dangerouslySetInnerHTML={{ __html: section.author }} />
+                <p className="text-base text-color-2/80 italic" dangerouslySetInnerHTML={{ __html: section.author }} />
             )}
         </div>
     );

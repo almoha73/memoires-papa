@@ -12,7 +12,7 @@ export default function Calendar({ section }) {
             <div className="flex justify-center">
                 <div className="bg-color-5/20 p-4 rounded-lg border border-color-5 w-full max-w-sm">
                     <h4 className="text-center font-bold mb-2 text-color-1">{section.month}</h4>
-                    <table className="w-full text-center text-sm">
+                    <table className="w-full text-center text-base">
                         <thead>
                             <tr className="text-color-2">
                                 <th>Di</th><th>Lu</th><th>Ma</th><th>Me</th><th>Je</th><th>Ve</th><th>Sa</th>
