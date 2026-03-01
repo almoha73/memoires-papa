@@ -1136,6 +1136,25 @@
       ]
     },
     {
+      "date": "VERS 1952-1953",
+      "title": "Vacances à bicyclette en Auvergne",
+      "sections": [
+        {
+          "type": "image-text-layout",
+          "imagePosition": "left",
+          "imageWidth": "1/2",
+          "image": {
+            "src": "images/jacques_copains_velo.jpg",
+            "alt": "Jacques avec ses copains à bicyclette"
+          },
+          "content": [
+            "Jacques avec des copains, proches du curé et avec lesquels il est parti en vacances... à bicyclette, peut-être en Auvergne. À cette époque, Philippe avait 8-9 ans et Jacques 14-15 ans.",
+            "Ces expéditions à vélo témoignaient du goût pour l'aventure et de la camaraderie de l'époque. Partir explorer les routes de France, comme celles de l'Auvergne, représentait une véritable épopée pour ces jeunes adolescents de l'immédiat après-guerre."
+          ]
+        }
+      ]
+    },
+    {
       "date": "1953 - 1956",
       "title": "Témoignage : Les années d'études et de cohabitation (1953-1956)",
       "sections": [
